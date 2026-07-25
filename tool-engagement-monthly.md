@@ -1,23 +1,24 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_10 tools engaged · 23 people · 453 calculations · 12 with no engagement_
+_11 tools engaged · 27 people · 445 calculations · 12 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/fire-calculator/ | 8 | 4 |  |
+| /calculators/investments/fire-calculator/ | 10 | 4 |  |
+| /calculators/investments/sp500-calculator/ | 3 | 32 |  |
 | /calculators/savings/compound-interest/ | 3 | 24 |  |
-| /calculators/investments/rolling-returns-simulator/ | 2 | 199 |  |
-| /calculators/investments/drawdown-simulator/ | 2 | 95 |  |
-| /calculators/investments/sp500-calculator/ | 2 | 31 |  |
+| /calculators/investments/rolling-returns-simulator/ | 2 | 198 |  |
+| /calculators/investments/drawdown-simulator/ | 2 | 88 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/unit-converters/stress/ | 1 | 9 |  |
 | /calculators/tax/stamp-duty/ | 1 | 4 |  |
+| /calculators/income-tax/take-home-pay/ | 1 | 3 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 1 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 0 |  |
 | /calculators/savings/isa-calculator/ | 0 | 17 | no engagement — investigate |
 | /calculators/pensions/pension-deferral/ | 0 | 16 | no engagement — investigate |
 | /calculators/debt/debt-snowball/ | 0 | 13 | no engagement — investigate |
-| /calculators/mortgage/mortgage-repayment/ | 0 | 13 | no engagement — investigate |
+| /calculators/mortgage/mortgage-repayment/ | 0 | 9 | no engagement — investigate |
 | /calculators/savings/how-long-will-my-money-last/ | 0 | 8 | no engagement — investigate |
 | /calculators/debt/debt-avalanche/ | 0 | 6 | no engagement — investigate |
 | /calculators/savings/savings-goal/ | 0 | 4 | no engagement — investigate |
