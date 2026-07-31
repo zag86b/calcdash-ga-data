@@ -1,24 +1,27 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_13 tools engaged · 38 people · 479 calculations · 10 with no engagement_
+_16 tools engaged · 43 people · 503 calculations · 10 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/investments/fire-calculator/ | 12 | 4 |  |
 | /calculators/investments/rolling-returns-simulator/ | 5 | 202 |  |
+| /calculators/income-tax/take-home-pay/ | 4 | 36 |  |
 | /calculators/investments/sp500-calculator/ | 4 | 34 |  |
 | /calculators/savings/compound-interest/ | 4 | 25 |  |
-| /calculators/income-tax/take-home-pay/ | 3 | 31 |  |
-| /calculators/investments/drawdown-simulator/ | 2 | 97 |  |
+| /calculators/investments/drawdown-simulator/ | 3 | 96 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/savings/isa-calculator/ | 1 | 23 |  |
+| /calculators/investments/sp500-calculator | 1 | 9 |  |
 | /calculators/unit-converters/stress/ | 1 | 9 |  |
+| /calculators/mortgage/mortgage-overpayment/ | 1 | 8 |  |
 | /calculators/savings/money-counter/ | 1 | 5 |  |
+| /calculators/income-tax/compare-two-salaries/ | 1 | 4 |  |
 | /calculators/tax/stamp-duty/ | 1 | 4 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 1 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 0 |  |
 | /calculators/debt/debt-snowball/ | 0 | 12 | no engagement — investigate |
-| /calculators/pensions/pension-deferral/ | 0 | 11 | no engagement — investigate |
+| /calculators/pensions/pension-deferral/ | 0 | 10 | no engagement — investigate |
 | /calculators/savings/how-long-will-my-money-last/ | 0 | 6 | no engagement — investigate |
 | /calculators/savings/savings-goal/ | 0 | 4 | no engagement — investigate |
 | /calculators/mortgage/mortgage-repayment/ | 0 | 3 | no engagement — investigate |
