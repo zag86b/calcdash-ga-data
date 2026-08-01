@@ -1,18 +1,19 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_11 tools engaged · 23 people · 92 calculations · 15 with no engagement_
+_12 tools engaged · 19 people · 85 calculations · 15 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/fire-calculator/ | 5 | 1 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 36 |  |
-| /calculators/investments/drawdown-simulator/ | 3 | 12 |  |
+| /calculators/income-tax/take-home-pay/ | 3 | 28 |  |
+| /calculators/investments/drawdown-simulator/ | 3 | 11 |  |
 | /calculators/investments/rolling-returns-simulator/ | 3 | 4 |  |
-| /calculators/investments/sp500-calculator/ | 2 | 3 |  |
+| /calculators/investments/fire-calculator/ | 2 | 0 |  |
+| /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
 | /calculators/savings/isa-calculator/ | 1 | 11 |  |
-| /calculators/investments/sp500-calculator | 1 | 9 |  |
-| /calculators/mortgage/mortgage-overpayment/ | 1 | 8 |  |
+| /calculators/investments/sp500-calculator | 1 | 6 |  |
 | /calculators/income-tax/compare-two-salaries/ | 1 | 4 |  |
+| /nc500-fuel-cost-calculator/ | 1 | 3 |  |
+| /calculators/investments/sp500-calculator/ | 1 | 2 |  |
 | /calculators/savings/compound-interest/ | 1 | 2 |  |
 | /calculators/savings/money-counter/ | 1 | 2 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
