@@ -1,6 +1,6 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_17 tools engaged · 44 people · 499 calculations · 10 with no engagement_
+_17 tools engaged · 45 people · 500 calculations · 10 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
@@ -11,6 +11,7 @@ _17 tools engaged · 44 people · 499 calculations · 10 with no engagement_
 | /calculators/savings/compound-interest/ | 4 | 23 |  |
 | /calculators/investments/drawdown-simulator/ | 3 | 96 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
+| /calculators/income-tax/salary-sacrifice/ | 2 | 1 |  |
 | /calculators/savings/isa-calculator/ | 1 | 23 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
 | /calculators/unit-converters/stress/ | 1 | 9 |  |
@@ -20,7 +21,6 @@ _17 tools engaged · 44 people · 499 calculations · 10 with no engagement_
 | /calculators/tax/stamp-duty/ | 1 | 4 |  |
 | /nc500-fuel-cost-calculator/ | 1 | 3 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 1 |  |
-| /calculators/income-tax/salary-sacrifice/ | 1 | 0 |  |
 | /calculators/debt/debt-snowball/ | 0 | 10 | no engagement — investigate |
 | /calculators/pensions/pension-deferral/ | 0 | 6 | no engagement — investigate |
 | /calculators/savings/how-long-will-my-money-last/ | 0 | 6 | no engagement — investigate |
