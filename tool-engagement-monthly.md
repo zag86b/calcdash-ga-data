@@ -1,19 +1,19 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_18 tools engaged · 82 people · 616 calculations · 10 with no engagement_
+_18 tools engaged · 175 people · 947 calculations · 10 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 39 | 207 |  |
-| /calculators/investments/fire-calculator/ | 12 | 4 |  |
-| /calculators/investments/rolling-returns-simulator/ | 5 | 193 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 36 |  |
+| /calculators/investments/drawdown-simulator/ | 128 | 522 |  |
+| /calculators/investments/fire-calculator/ | 13 | 5 |  |
+| /calculators/investments/rolling-returns-simulator/ | 6 | 196 |  |
+| /calculators/income-tax/take-home-pay/ | 5 | 44 |  |
 | /calculators/investments/sp500-calculator/ | 4 | 34 |  |
 | /calculators/savings/compound-interest/ | 4 | 23 |  |
+| /calculators/savings/isa-calculator/ | 2 | 25 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/income-tax/salary-sacrifice/ | 2 | 1 |  |
-| /calculators/savings/isa-calculator/ | 1 | 23 |  |
-| /calculators/investments/sp500-period-comparison/ | 1 | 15 |  |
+| /calculators/investments/sp500-period-comparison/ | 1 | 17 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
 | /calculators/unit-converters/stress/ | 1 | 9 |  |
 | /calculators/investments/sp500-calculator | 1 | 6 |  |
