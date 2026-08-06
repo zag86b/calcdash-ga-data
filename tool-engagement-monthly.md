@@ -1,16 +1,17 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_18 tools engaged · 175 people · 947 calculations · 10 with no engagement_
+_18 tools engaged · 191 people · 1000 calculations · 10 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 128 | 522 |  |
-| /calculators/investments/fire-calculator/ | 13 | 5 |  |
-| /calculators/investments/rolling-returns-simulator/ | 6 | 196 |  |
-| /calculators/income-tax/take-home-pay/ | 5 | 44 |  |
-| /calculators/investments/sp500-calculator/ | 4 | 34 |  |
-| /calculators/savings/compound-interest/ | 4 | 23 |  |
-| /calculators/savings/isa-calculator/ | 2 | 25 |  |
+| /calculators/investments/drawdown-simulator/ | 141 | 559 |  |
+| /calculators/investments/fire-calculator/ | 14 | 5 |  |
+| /calculators/investments/rolling-returns-simulator/ | 6 | 198 |  |
+| /calculators/income-tax/take-home-pay/ | 5 | 49 |  |
+| /calculators/savings/compound-interest/ | 5 | 23 |  |
+| /calculators/investments/sp500-calculator/ | 4 | 39 |  |
+| /calculators/savings/isa-calculator/ | 2 | 27 |  |
+| /calculators/savings/money-counter/ | 2 | 6 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/income-tax/salary-sacrifice/ | 2 | 1 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 17 |  |
@@ -18,7 +19,6 @@ _18 tools engaged · 175 people · 947 calculations · 10 with no engagement_
 | /calculators/unit-converters/stress/ | 1 | 9 |  |
 | /calculators/investments/sp500-calculator | 1 | 6 |  |
 | /calculators/income-tax/compare-two-salaries/ | 1 | 4 |  |
-| /calculators/savings/money-counter/ | 1 | 4 |  |
 | /calculators/tax/stamp-duty/ | 1 | 4 |  |
 | /nc500-fuel-cost-calculator/ | 1 | 3 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 1 |  |
