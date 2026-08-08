@@ -1,11 +1,11 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_12 tools engaged · 158 people · 548 calculations · 16 with no engagement_
+_11 tools engaged · 160 people · 567 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 142 | 475 |  |
-| /calculators/income-tax/take-home-pay/ | 2 | 17 |  |
+| /calculators/investments/drawdown-simulator/ | 143 | 479 |  |
+| /calculators/income-tax/take-home-pay/ | 4 | 35 |  |
 | /calculators/savings/compound-interest/ | 2 | 9 |  |
 | /calculators/investments/sp500-calculator/ | 2 | 8 |  |
 | /calculators/investments/rolling-returns-simulator/ | 2 | 5 |  |
@@ -13,7 +13,6 @@ _12 tools engaged · 158 people · 548 calculations · 16 with no engagement_
 | /calculators/investments/sp500-period-comparison/ | 1 | 17 |  |
 | /calculators/pensions/pension-deferral/ | 1 | 6 |  |
 | /calculators/savings/isa-calculator/ | 1 | 4 |  |
-| /nc500-fuel-cost-calculator/ | 1 | 3 |  |
 | /calculators/savings/money-counter/ | 1 | 2 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 1 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
@@ -32,6 +31,7 @@ _12 tools engaged · 158 people · 548 calculations · 16 with no engagement_
 | /calculators/tax/stamp-duty/ | 0 | 0 | no engagement — investigate |
 | /calculators/unit-converters/speed/ | 0 | 0 | no engagement — investigate |
 | /calculators/unit-converters/stress/ | 0 | 0 | no engagement — investigate |
+| /nc500-fuel-cost-calculator/ | 0 | 0 | no engagement — investigate |
 
-> ⚠ No engagement (investigate): /calculators/debt/debt-avalanche/, /calculators/debt/debt-snowball/, /calculators/income-tax/compare-two-salaries/, /calculators/income-tax/hourly-to-salary/, /calculators/investments/personal-investment-return/, /calculators/investments/sp500-calculator, /calculators/maths/million-to-billion-converter/, /calculators/mortgage/mortgage-overpayment/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/pensions/state-pension-deferral/, /calculators/savings/how-long-will-my-money-last/, /calculators/savings/savings-goal/, /calculators/tax/stamp-duty/, /calculators/unit-converters/speed/, /calculators/unit-converters/stress/
+> ⚠ No engagement (investigate): /calculators/debt/debt-avalanche/, /calculators/debt/debt-snowball/, /calculators/income-tax/compare-two-salaries/, /calculators/income-tax/hourly-to-salary/, /calculators/investments/personal-investment-return/, /calculators/investments/sp500-calculator, /calculators/maths/million-to-billion-converter/, /calculators/mortgage/mortgage-overpayment/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/pensions/state-pension-deferral/, /calculators/savings/how-long-will-my-money-last/, /calculators/savings/savings-goal/, /calculators/tax/stamp-duty/, /calculators/unit-converters/speed/, /calculators/unit-converters/stress/, /nc500-fuel-cost-calculator/
 
