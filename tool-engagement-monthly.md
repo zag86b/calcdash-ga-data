@@ -1,13 +1,13 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_19 tools engaged · 208 people · 1072 calculations · 9 with no engagement_
+_20 tools engaged · 213 people · 1090 calculations · 8 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 146 | 577 |  |
-| /calculators/investments/rolling-returns-simulator/ | 15 | 217 |  |
+| /calculators/investments/drawdown-simulator/ | 146 | 578 |  |
+| /calculators/investments/rolling-returns-simulator/ | 19 | 223 |  |
 | /calculators/investments/fire-calculator/ | 14 | 5 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 71 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 83 |  |
 | /calculators/investments/sp500-calculator/ | 5 | 42 |  |
 | /calculators/savings/compound-interest/ | 5 | 29 |  |
 | /calculators/savings/isa-calculator/ | 2 | 27 |  |
@@ -19,12 +19,12 @@ _19 tools engaged · 208 people · 1072 calculations · 9 with no engagement_
 | /calculators/pensions/pension-deferral/ | 1 | 12 |  |
 | /calculators/unit-converters/stress/ | 1 | 9 |  |
 | /calculators/investments/sp500-calculator | 1 | 6 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 1 | 6 |  |
 | /calculators/income-tax/compare-two-salaries/ | 1 | 4 |  |
 | /calculators/tax/stamp-duty/ | 1 | 4 |  |
 | /nc500-fuel-cost-calculator/ | 1 | 3 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 1 |  |
-| /calculators/debt/debt-snowball/ | 0 | 9 | no engagement — investigate |
-| /calculators/savings/how-long-will-my-money-last/ | 0 | 6 | no engagement — investigate |
+| /calculators/debt/debt-snowball/ | 0 | 8 | no engagement — investigate |
 | /calculators/savings/savings-goal/ | 0 | 4 | no engagement — investigate |
 | /calculators/mortgage/mortgage-repayment/ | 0 | 3 | no engagement — investigate |
 | /calculators/mortgage/price-per-square-foot/ | 0 | 2 | no engagement — investigate |
@@ -33,5 +33,5 @@ _19 tools engaged · 208 people · 1072 calculations · 9 with no engagement_
 | /calculators/pensions/state-pension-deferral/ | 0 | 1 | no engagement — investigate |
 | /calculators/income-tax/hourly-to-salary/ | 0 | 0 | no engagement — investigate |
 
-> ⚠ No engagement (investigate): /calculators/debt/debt-snowball/, /calculators/savings/how-long-will-my-money-last/, /calculators/savings/savings-goal/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/debt/debt-avalanche/, /calculators/investments/personal-investment-return/, /calculators/pensions/state-pension-deferral/, /calculators/income-tax/hourly-to-salary/
+> ⚠ No engagement (investigate): /calculators/debt/debt-snowball/, /calculators/savings/savings-goal/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/debt/debt-avalanche/, /calculators/investments/personal-investment-return/, /calculators/pensions/state-pension-deferral/, /calculators/income-tax/hourly-to-salary/
 
