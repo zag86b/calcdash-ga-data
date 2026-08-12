@@ -1,24 +1,24 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_15 tools engaged · 184 people · 628 calculations · 16 with no engagement_
+_15 tools engaged · 47 people · 204 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 145 | 482 |  |
-| /calculators/investments/rolling-returns-simulator/ | 16 | 32 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 48 |  |
-| /calculators/investments/fire-calculator/ | 3 | 2 |  |
-| /calculators/savings/compound-interest/ | 2 | 10 |  |
+| /calculators/investments/rolling-returns-simulator/ | 15 | 29 |  |
+| /calculators/investments/drawdown-simulator/ | 12 | 44 |  |
+| /calculators/income-tax/take-home-pay/ | 3 | 56 |  |
+| /calculators/savings/compound-interest/ | 2 | 22 |  |
 | /calculators/investments/sp500-calculator/ | 2 | 8 |  |
-| /calculators/savings/isa-calculator/ | 2 | 4 |  |
 | /calculators/savings/money-counter/ | 2 | 2 |  |
 | /calculators/savings/savings-goal/ | 2 | 2 |  |
-| /calculators/savings/budget-planner/ | 1 | 13 |  |
-| /calculators/mortgage/mortgage-overpayment/ | 1 | 11 |  |
+| /calculators/investments/fire-calculator/ | 2 | 1 |  |
+| /calculators/savings/budget-planner/ | 1 | 14 |  |
+| /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
 | /calculators/pensions/pension-deferral/ | 1 | 6 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 4 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 4 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 1 | 0 |  |
+| /calculators/savings/isa-calculator/ | 1 | 0 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/debt-snowball/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/compare-two-salaries/ | 0 | 0 | no engagement — investigate |
