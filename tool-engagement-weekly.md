@@ -1,13 +1,13 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_19 tools engaged · 44 people · 177 calculations · 15 with no engagement_
+_19 tools engaged · 42 people · 163 calculations · 15 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/rolling-returns-simulator/ | 17 | 41 |  |
-| /calculators/investments/drawdown-simulator/ | 5 | 14 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 48 |  |
-| /calculators/savings/compound-interest/ | 2 | 21 |  |
+| /calculators/investments/rolling-returns-simulator/ | 18 | 43 |  |
+| /calculators/investments/drawdown-simulator/ | 4 | 10 |  |
+| /calculators/income-tax/take-home-pay/ | 2 | 34 |  |
+| /calculators/savings/compound-interest/ | 2 | 23 |  |
 | /calculators/savings/savings-goal/ | 2 | 2 |  |
 | /calculators/savings/budget-planner/ | 1 | 14 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
