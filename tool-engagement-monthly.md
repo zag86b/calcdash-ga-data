@@ -1,22 +1,22 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_30 tools engaged · 257 people · 1178 calculations · 5 with no engagement_
+_30 tools engaged · 265 people · 1019 calculations · 5 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 160 | 592 |  |
-| /calculators/investments/rolling-returns-simulator/ | 25 | 209 |  |
+| /calculators/investments/drawdown-simulator/ | 161 | 539 |  |
+| /calculators/investments/rolling-returns-simulator/ | 25 | 70 |  |
 | /calculators/investments/fire-calculator/ | 16 | 17 |  |
-| /calculators/income-tax/take-home-pay/ | 8 | 113 |  |
-| /calculators/savings/compound-interest/ | 6 | 55 |  |
-| /calculators/investments/sp500-calculator/ | 6 | 22 |  |
-| /calculators/savings/isa-calculator/ | 3 | 29 |  |
+| /calculators/income-tax/take-home-pay/ | 8 | 114 |  |
+| /calculators/mortgage/invest-or-overpay/ | 8 | 75 |  |
+| /calculators/savings/compound-interest/ | 6 | 45 |  |
+| /calculators/investments/sp500-calculator/ | 6 | 16 |  |
+| /calculators/savings/money-counter/ | 4 | 9 |  |
+| /calculators/savings/isa-calculator/ | 3 | 22 |  |
 | /calculators/pensions/pension-deferral/ | 3 | 13 |  |
-| /calculators/savings/money-counter/ | 3 | 6 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 24 |  |
-| /calculators/mortgage/invest-or-overpay/ | 2 | 14 |  |
 | /calculators/unit-converters/stress/ | 2 | 11 |  |
-| /calculators/savings/savings-goal/ | 2 | 6 |  |
+| /calculators/savings/savings-goal/ | 2 | 2 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/income-tax/salary-sacrifice/ | 2 | 1 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 17 |  |
@@ -24,7 +24,6 @@ _30 tools engaged · 257 people · 1178 calculations · 5 with no engagement_
 | /calculators/investments/sp500-calculator | 1 | 6 |  |
 | /calculators/income-tax/compare-two-salaries/ | 1 | 4 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 4 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 1 | 4 |  |
 | /calculators/unit-converters/energy/ | 1 | 3 |  |
 | /nc500-fuel-cost-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/power/ | 1 | 2 |  |
@@ -34,11 +33,12 @@ _30 tools engaged · 257 people · 1178 calculations · 5 with no engagement_
 | /calculators/tax/stamp-duty/ | 1 | 1 |  |
 | /fuel-prices/ | 1 | 1 |  |
 | /calculators/investments/personal-investment-return/ | 1 | 0 |  |
-| /calculators/mortgage/mortgage-repayment/ | 0 | 1 | no engagement — investigate |
+| /calculators/savings/how-long-will-my-money-last/ | 1 | 0 |  |
 | /calculators/pensions/state-pension-deferral/ | 0 | 1 | no engagement — investigate |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/hourly-to-salary/ | 0 | 0 | no engagement — investigate |
+| /calculators/mortgage/mortgage-repayment/ | 0 | 0 | no engagement — investigate |
 | /calculators/mortgage/price-per-square-foot/ | 0 | 0 | no engagement — investigate |
 
-> ⚠ No engagement (investigate): /calculators/mortgage/mortgage-repayment/, /calculators/pensions/state-pension-deferral/, /calculators/debt/debt-avalanche/, /calculators/income-tax/hourly-to-salary/, /calculators/mortgage/price-per-square-foot/
+> ⚠ No engagement (investigate): /calculators/pensions/state-pension-deferral/, /calculators/debt/debt-avalanche/, /calculators/income-tax/hourly-to-salary/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/
 
