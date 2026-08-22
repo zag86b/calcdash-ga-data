@@ -1,21 +1,21 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_14 tools engaged · 42 people · 182 calculations · 25 with no engagement_
+_14 tools engaged · 42 people · 179 calculations · 25 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 17 | 46 |  |
+| /calculators/investments/drawdown-simulator/ | 18 | 48 |  |
 | /calculators/mortgage/invest-or-overpay/ | 7 | 72 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 15 |  |
+| /calculators/income-tax/take-home-pay/ | 3 | 10 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 7 |  |
-| /calculators/investments/rolling-returns-simulator/ | 2 | 3 |  |
+| /calculators/savings/money-counter/ | 2 | 7 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
 | /calculators/investments/fire-calculator/ | 1 | 12 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 8 |  |
-| /calculators/savings/compound-interest/ | 1 | 7 |  |
+| /calculators/savings/compound-interest/ | 1 | 5 |  |
 | /calculators/unit-converters/pace/ | 1 | 4 |  |
-| /calculators/savings/money-counter/ | 1 | 3 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
+| /calculators/investments/rolling-returns-simulator/ | 1 | 1 |  |
 | /calculators/unit-converters/acceleration/ | 1 | 1 |  |
 | /fuel-prices/ | 1 | 1 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
