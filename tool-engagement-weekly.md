@@ -1,21 +1,21 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_12 tools engaged · 85 people · 360 calculations · 27 with no engagement_
+_12 tools engaged · 88 people · 374 calculations · 27 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 63 | 234 |  |
+| /calculators/investments/drawdown-simulator/ | 69 | 252 |  |
 | /calculators/mortgage/invest-or-overpay/ | 6 | 62 |  |
-| /calculators/income-tax/take-home-pay/ | 3 | 12 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 2 | 11 |  |
-| /calculators/investments/rolling-returns-simulator/ | 2 | 9 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 2 | 13 |  |
 | /calculators/savings/money-counter/ | 2 | 7 |  |
-| /calculators/debt/debt-snowball/ | 2 | 1 |  |
+| /calculators/income-tax/take-home-pay/ | 2 | 6 |  |
+| /calculators/investments/rolling-returns-simulator/ | 1 | 10 |  |
 | /calculators/investments/fire-calculator/ | 1 | 9 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 8 |  |
 | /calculators/unit-converters/pace/ | 1 | 4 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /calculators/unit-converters/acceleration/ | 1 | 1 |  |
+| /calculators/debt/debt-snowball/ | 1 | 0 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/compare-two-salaries/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/hourly-to-salary/ | 0 | 0 | no engagement — investigate |

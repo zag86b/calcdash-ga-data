@@ -1,21 +1,21 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_31 tools engaged · 314 people · 1243 calculations · 8 with no engagement_
+_31 tools engaged · 316 people · 1252 calculations · 8 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 220 | 764 |  |
-| /calculators/investments/rolling-returns-simulator/ | 25 | 61 |  |
+| /calculators/investments/drawdown-simulator/ | 226 | 784 |  |
+| /calculators/investments/rolling-returns-simulator/ | 25 | 63 |  |
 | /calculators/income-tax/take-home-pay/ | 9 | 112 |  |
 | /calculators/mortgage/invest-or-overpay/ | 8 | 76 |  |
-| /calculators/investments/fire-calculator/ | 7 | 23 |  |
+| /calculators/investments/fire-calculator/ | 6 | 23 |  |
 | /calculators/savings/money-counter/ | 5 | 11 |  |
-| /calculators/savings/compound-interest/ | 4 | 39 |  |
-| /calculators/investments/sp500-calculator/ | 4 | 11 |  |
-| /calculators/savings/isa-calculator/ | 3 | 22 |  |
+| /calculators/savings/compound-interest/ | 3 | 37 |  |
 | /calculators/pensions/pension-deferral/ | 3 | 13 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 3 | 11 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 3 | 13 |  |
+| /calculators/investments/sp500-calculator/ | 3 | 9 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 24 |  |
+| /calculators/savings/isa-calculator/ | 2 | 11 |  |
 | /calculators/savings/savings-goal/ | 2 | 2 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 17 |  |
