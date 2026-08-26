@@ -1,11 +1,11 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_31 tools engaged · 316 people · 1252 calculations · 8 with no engagement_
+_31 tools engaged · 318 people · 1254 calculations · 8 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 226 | 784 |  |
-| /calculators/investments/rolling-returns-simulator/ | 25 | 63 |  |
+| /calculators/investments/drawdown-simulator/ | 228 | 785 |  |
+| /calculators/investments/rolling-returns-simulator/ | 24 | 62 |  |
 | /calculators/income-tax/take-home-pay/ | 9 | 112 |  |
 | /calculators/mortgage/invest-or-overpay/ | 8 | 76 |  |
 | /calculators/investments/fire-calculator/ | 6 | 23 |  |
@@ -16,6 +16,7 @@ _31 tools engaged · 316 people · 1252 calculations · 8 with no engagement_
 | /calculators/investments/sp500-calculator/ | 3 | 9 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 24 |  |
 | /calculators/savings/isa-calculator/ | 2 | 11 |  |
+| /calculators/unit-converters/stress/ | 2 | 4 |  |
 | /calculators/savings/savings-goal/ | 2 | 2 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 17 |  |
@@ -28,7 +29,6 @@ _31 tools engaged · 316 people · 1252 calculations · 8 with no engagement_
 | /calculators/unit-converters/energy/ | 1 | 3 |  |
 | /nc500-fuel-cost-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/power/ | 1 | 2 |  |
-| /calculators/unit-converters/stress/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 1 |  |
 | /calculators/investments/forex-compounding/ | 1 | 1 |  |
