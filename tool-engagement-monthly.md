@@ -1,14 +1,14 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_32 tools engaged · 351 people · 1394 calculations · 8 with no engagement_
+_32 tools engaged · 353 people · 1410 calculations · 8 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 256 | 863 |  |
-| /calculators/investments/rolling-returns-simulator/ | 25 | 69 |  |
-| /calculators/income-tax/take-home-pay/ | 8 | 91 |  |
+| /calculators/investments/drawdown-simulator/ | 258 | 867 |  |
+| /calculators/investments/rolling-returns-simulator/ | 24 | 68 |  |
+| /calculators/savings/money-counter/ | 9 | 75 |  |
+| /calculators/income-tax/take-home-pay/ | 8 | 95 |  |
 | /calculators/mortgage/invest-or-overpay/ | 8 | 76 |  |
-| /calculators/savings/money-counter/ | 8 | 66 |  |
 | /calculators/investments/fire-calculator/ | 5 | 23 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 4 | 27 |  |
 | /calculators/savings/compound-interest/ | 3 | 37 |  |
