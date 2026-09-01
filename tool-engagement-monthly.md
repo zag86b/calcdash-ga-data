@@ -1,20 +1,21 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_29 tools engaged · 347 people · 1381 calculations · 11 with no engagement_
+_30 tools engaged · 351 people · 1404 calculations · 11 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 258 | 866 |  |
+| /calculators/investments/drawdown-simulator/ | 259 | 867 |  |
 | /calculators/investments/rolling-returns-simulator/ | 23 | 66 |  |
 | /calculators/savings/money-counter/ | 9 | 75 |  |
 | /calculators/mortgage/invest-or-overpay/ | 8 | 76 |  |
-| /calculators/income-tax/take-home-pay/ | 7 | 92 |  |
-| /calculators/investments/fire-calculator/ | 5 | 23 |  |
+| /calculators/income-tax/take-home-pay/ | 7 | 97 |  |
+| /calculators/investments/fire-calculator/ | 6 | 32 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 4 | 27 |  |
 | /calculators/savings/compound-interest/ | 3 | 39 |  |
 | /calculators/pensions/pension-deferral/ | 3 | 13 |  |
 | /calculators/investments/sp500-calculator/ | 3 | 9 |  |
 | /calculators/savings/isa-calculator/ | 2 | 11 |  |
+| /calculators/unit-converters/pace/ | 2 | 6 |  |
 | /calculators/unit-converters/stress/ | 2 | 4 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 3 |  |
 | /calculators/savings/savings-goal/ | 2 | 2 |  |
@@ -23,9 +24,9 @@ _29 tools engaged · 347 people · 1381 calculations · 11 with no engagement_
 | /calculators/savings/budget-planner/ | 1 | 14 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 8 |  |
+| /calculators/mortgage/mortgage-affordability/ | 1 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 5 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 4 |  |
-| /calculators/unit-converters/pace/ | 1 | 4 |  |
 | /calculators/unit-converters/energy/ | 1 | 3 |  |
 | /calculators/unit-converters/power/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
