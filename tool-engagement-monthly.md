@@ -1,20 +1,19 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_29 tools engaged · 351 people · 1435 calculations · 13 with no engagement_
+_29 tools engaged · 216 people · 988 calculations · 13 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 259 | 867 |  |
-| /calculators/investments/rolling-returns-simulator/ | 23 | 67 |  |
-| /calculators/savings/money-counter/ | 9 | 75 |  |
+| /calculators/investments/drawdown-simulator/ | 129 | 424 |  |
+| /calculators/investments/rolling-returns-simulator/ | 22 | 64 |  |
+| /calculators/savings/money-counter/ | 9 | 84 |  |
 | /calculators/mortgage/invest-or-overpay/ | 8 | 76 |  |
-| /calculators/income-tax/take-home-pay/ | 7 | 121 |  |
-| /calculators/investments/fire-calculator/ | 6 | 34 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 116 |  |
+| /calculators/investments/fire-calculator/ | 5 | 33 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 29 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 4 | 27 |  |
-| /calculators/savings/compound-interest/ | 3 | 43 |  |
 | /calculators/investments/sp500-calculator/ | 3 | 9 |  |
-| /calculators/savings/isa-calculator/ | 2 | 11 |  |
+| /calculators/savings/compound-interest/ | 2 | 43 |  |
 | /calculators/unit-converters/pace/ | 2 | 6 |  |
 | /calculators/unit-converters/stress/ | 2 | 4 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 3 |  |
@@ -23,6 +22,7 @@ _29 tools engaged · 351 people · 1435 calculations · 13 with no engagement_
 | /calculators/savings/budget-planner/ | 1 | 14 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 12 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 8 |  |
+| /calculators/savings/isa-calculator/ | 1 | 7 |  |
 | /calculators/mortgage/mortgage-affordability/ | 1 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 5 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 4 |  |
