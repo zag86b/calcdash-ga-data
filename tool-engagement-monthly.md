@@ -1,20 +1,19 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_29 tools engaged · 209 people · 955 calculations · 13 with no engagement_
+_29 tools engaged · 204 people · 926 calculations · 13 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 124 | 396 |  |
+| /calculators/investments/drawdown-simulator/ | 122 | 392 |  |
 | /calculators/investments/rolling-returns-simulator/ | 21 | 62 |  |
-| /calculators/savings/money-counter/ | 10 | 94 |  |
+| /calculators/savings/money-counter/ | 9 | 92 |  |
 | /calculators/mortgage/invest-or-overpay/ | 8 | 76 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 108 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 103 |  |
 | /calculators/investments/fire-calculator/ | 4 | 33 |  |
-| /calculators/pensions/pension-deferral/ | 4 | 29 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 4 | 27 |  |
-| /calculators/savings/compound-interest/ | 2 | 43 |  |
+| /calculators/pensions/pension-deferral/ | 3 | 23 |  |
+| /calculators/savings/compound-interest/ | 2 | 34 |  |
 | /calculators/unit-converters/pace/ | 2 | 6 |  |
-| /calculators/investments/sp500-calculator/ | 2 | 4 |  |
 | /calculators/unit-converters/stress/ | 2 | 4 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 3 |  |
 | /calculators/savings/savings-goal/ | 2 | 2 |  |
@@ -31,6 +30,7 @@ _29 tools engaged · 209 people · 955 calculations · 13 with no engagement_
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /calculators/investments/forex-compounding/ | 1 | 1 |  |
+| /calculators/investments/sp500-calculator/ | 1 | 1 |  |
 | /fuel-prices/ | 1 | 1 |  |
 | /calculators/investments/personal-investment-return/ | 1 | 0 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |

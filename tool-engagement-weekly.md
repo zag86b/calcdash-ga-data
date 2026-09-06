@@ -1,11 +1,11 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_10 tools engaged · 14 people · 101 calculations · 32 with no engagement_
+_10 tools engaged · 13 people · 96 calculations · 32 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/income-tax/take-home-pay/ | 3 | 35 |  |
-| /calculators/investments/drawdown-simulator/ | 3 | 3 |  |
+| /calculators/income-tax/take-home-pay/ | 3 | 31 |  |
+| /calculators/investments/drawdown-simulator/ | 2 | 2 |  |
 | /calculators/savings/money-counter/ | 1 | 19 |  |
 | /calculators/pensions/pension-deferral/ | 1 | 16 |  |
 | /calculators/investments/fire-calculator/ | 1 | 11 |  |
