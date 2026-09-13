@@ -1,25 +1,25 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_19 tools engaged · 168 people · 760 calculations · 23 with no engagement_
+_19 tools engaged · 164 people · 749 calculations · 23 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 118 | 380 |  |
+| /calculators/investments/drawdown-simulator/ | 117 | 378 |  |
 | /calculators/savings/money-counter/ | 8 | 92 |  |
 | /calculators/mortgage/invest-or-overpay/ | 7 | 72 |  |
-| /calculators/investments/rolling-returns-simulator/ | 6 | 27 |  |
 | /calculators/income-tax/take-home-pay/ | 5 | 55 |  |
+| /calculators/investments/rolling-returns-simulator/ | 4 | 21 |  |
 | /calculators/investments/fire-calculator/ | 3 | 32 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 27 |  |
 | /calculators/pensions/pension-deferral/ | 3 | 23 |  |
 | /calculators/unit-converters/pace/ | 2 | 6 |  |
-| /calculators/unit-converters/stress/ | 2 | 4 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 3 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
-| /calculators/savings/compound-interest/ | 1 | 14 |  |
+| /calculators/savings/compound-interest/ | 1 | 13 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 8 |  |
 | /calculators/mortgage/mortgage-affordability/ | 1 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 5 |  |
+| /calculators/unit-converters/stress/ | 1 | 2 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /fuel-prices/ | 1 | 1 |  |
