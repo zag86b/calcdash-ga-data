@@ -1,28 +1,27 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_19 tools engaged · 163 people · 740 calculations · 23 with no engagement_
+_18 tools engaged · 158 people · 722 calculations · 24 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 117 | 378 |  |
+| /calculators/investments/drawdown-simulator/ | 115 | 373 |  |
 | /calculators/savings/money-counter/ | 8 | 92 |  |
 | /calculators/mortgage/invest-or-overpay/ | 7 | 72 |  |
 | /calculators/income-tax/take-home-pay/ | 5 | 50 |  |
 | /calculators/investments/fire-calculator/ | 3 | 32 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 27 |  |
-| /calculators/pensions/pension-deferral/ | 3 | 23 |  |
 | /calculators/investments/rolling-returns-simulator/ | 3 | 19 |  |
 | /calculators/unit-converters/pace/ | 2 | 6 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 3 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
-| /calculators/savings/compound-interest/ | 1 | 11 |  |
+| /calculators/pensions/pension-deferral/ | 1 | 16 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 8 |  |
 | /calculators/mortgage/mortgage-affordability/ | 1 | 6 |  |
+| /calculators/savings/compound-interest/ | 1 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 5 |  |
 | /calculators/unit-converters/stress/ | 1 | 2 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
-| /fuel-prices/ | 1 | 1 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/compare-two-salaries/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/hourly-to-salary/ | 0 | 0 | no engagement — investigate |
@@ -45,7 +44,8 @@ _19 tools engaged · 163 people · 740 calculations · 23 with no engagement_
 | /calculators/unit-converters/energy/ | 0 | 0 | no engagement — investigate |
 | /calculators/unit-converters/power/ | 0 | 0 | no engagement — investigate |
 | /calculators/unit-converters/speed/ | 0 | 0 | no engagement — investigate |
+| /fuel-prices/ | 0 | 0 | no engagement — investigate |
 | /nc500-fuel-cost-calculator/ | 0 | 0 | no engagement — investigate |
 
-> ⚠ No engagement (investigate): /calculators/debt/debt-avalanche/, /calculators/income-tax/compare-two-salaries/, /calculators/income-tax/hourly-to-salary/, /calculators/income-tax/pro-rata-salary/, /calculators/income-tax/salary-sacrifice/, /calculators/investments/forex-compounding/, /calculators/investments/personal-investment-return/, /calculators/investments/sp500-calculator, /calculators/investments/sp500-calculator/, /calculators/investments/sp500-period-comparison/, /calculators/maths/million-to-billion-converter/, /calculators/mortgage/mortgage-overpayment/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/pensions/state-pension-deferral/, /calculators/savings/budget-planner/, /calculators/savings/isa-calculator/, /calculators/savings/savings-goal/, /calculators/tax/stamp-duty/, /calculators/unit-converters/energy/, /calculators/unit-converters/power/, /calculators/unit-converters/speed/, /nc500-fuel-cost-calculator/
+> ⚠ No engagement (investigate): /calculators/debt/debt-avalanche/, /calculators/income-tax/compare-two-salaries/, /calculators/income-tax/hourly-to-salary/, /calculators/income-tax/pro-rata-salary/, /calculators/income-tax/salary-sacrifice/, /calculators/investments/forex-compounding/, /calculators/investments/personal-investment-return/, /calculators/investments/sp500-calculator, /calculators/investments/sp500-calculator/, /calculators/investments/sp500-period-comparison/, /calculators/maths/million-to-billion-converter/, /calculators/mortgage/mortgage-overpayment/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/pensions/state-pension-deferral/, /calculators/savings/budget-planner/, /calculators/savings/isa-calculator/, /calculators/savings/savings-goal/, /calculators/tax/stamp-duty/, /calculators/unit-converters/energy/, /calculators/unit-converters/power/, /calculators/unit-converters/speed/, /fuel-prices/, /nc500-fuel-cost-calculator/
 
