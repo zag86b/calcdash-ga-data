@@ -1,16 +1,16 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_18 tools engaged · 158 people · 722 calculations · 24 with no engagement_
+_18 tools engaged · 146 people · 674 calculations · 24 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/drawdown-simulator/ | 115 | 373 |  |
+| /calculators/investments/drawdown-simulator/ | 105 | 348 |  |
 | /calculators/savings/money-counter/ | 8 | 92 |  |
-| /calculators/mortgage/invest-or-overpay/ | 7 | 72 |  |
-| /calculators/income-tax/take-home-pay/ | 5 | 50 |  |
-| /calculators/investments/fire-calculator/ | 3 | 32 |  |
+| /calculators/mortgage/invest-or-overpay/ | 6 | 62 |  |
+| /calculators/income-tax/take-home-pay/ | 5 | 49 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 27 |  |
 | /calculators/investments/rolling-returns-simulator/ | 3 | 19 |  |
+| /calculators/investments/fire-calculator/ | 2 | 20 |  |
 | /calculators/unit-converters/pace/ | 2 | 6 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 3 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
