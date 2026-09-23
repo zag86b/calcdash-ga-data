@@ -1,22 +1,22 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_16 tools engaged · 19 people · 148 calculations · 28 with no engagement_
+_16 tools engaged · 22 people · 164 calculations · 28 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/savings/money-counter/ | 2 | 16 |  |
+| /calculators/investments/sp500-calculator/ | 3 | 9 |  |
+| /calculators/savings/money-counter/ | 2 | 18 |  |
 | /calculators/savings/compound-interest/ | 2 | 8 |  |
-| /calculators/investments/sp500-calculator/ | 2 | 4 |  |
-| /calculators/investments/fire-calculator/ | 1 | 56 |  |
+| /calculators/investments/rolling-returns-simulator/ | 2 | 5 |  |
+| /fuel-prices/ | 2 | 3 |  |
+| /calculators/investments/fire-calculator/ | 1 | 59 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 24 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 1 | 13 |  |
+| /calculators/mortgage/invest-or-overpay/ | 1 | 7 |  |
+| /calculators/income-tax/take-home-pay/ | 1 | 5 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 5 |  |
-| /calculators/mortgage/invest-or-overpay/ | 1 | 5 |  |
-| /calculators/income-tax/take-home-pay/ | 1 | 4 |  |
-| /calculators/investments/rolling-returns-simulator/ | 1 | 3 |  |
 | /calculators/maths/average-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
-| /fuel-prices/ | 1 | 2 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 1 |  |
 | /calculators/investments/drawdown-simulator/ | 1 | 1 |  |
 | /calculators/unit-converters/speed/ | 1 | 1 |  |
