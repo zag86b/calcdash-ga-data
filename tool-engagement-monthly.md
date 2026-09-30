@@ -1,29 +1,29 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_25 tools engaged · 47 people · 346 calculations · 22 with no engagement_
+_25 tools engaged · 47 people · 342 calculations · 22 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 8 | 18 |  |
+| /calculators/investments/sp500-calculator/ | 9 | 18 |  |
 | /calculators/savings/money-counter/ | 3 | 37 |  |
-| /calculators/income-tax/take-home-pay/ | 3 | 36 |  |
 | /calculators/investments/rolling-returns-simulator/ | 3 | 6 |  |
-| /calculators/investments/drawdown-simulator/ | 3 | 3 |  |
 | /calculators/investments/fire-calculator/ | 2 | 70 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 50 |  |
+| /calculators/income-tax/take-home-pay/ | 2 | 34 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 18 |  |
-| /calculators/savings/compound-interest/ | 2 | 14 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 2 | 14 |  |
+| /calculators/savings/compound-interest/ | 2 | 12 |  |
 | /calculators/unit-converters/speed/ | 2 | 4 |  |
 | /calculators/unit-converters/torque/ | 2 | 4 |  |
 | /fuel-prices/ | 2 | 3 |  |
+| /calculators/investments/drawdown-simulator/ | 2 | 2 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 24 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 1 | 13 |  |
+| /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 8 |  |
-| /calculators/income-tax/hourly-wage/ | 1 | 7 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 7 |  |
 | /calculators/mortgage/mortgage-affordability/ | 1 | 6 |  |
-| /calculators/income-tax/civil-service-take-home-pay/ | 1 | 5 |  |
 | /calculators/maths/million-to-billion-converter/ | 1 | 5 |  |
+| /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
 | /calculators/maths/average-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/pace/ | 1 | 2 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 1 |  |
