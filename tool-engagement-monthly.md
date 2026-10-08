@@ -1,16 +1,16 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_32 tools engaged · 90 people · 535 calculations · 17 with no engagement_
+_32 tools engaged · 91 people · 545 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/investments/sp500-calculator/ | 15 | 49 |  |
 | /calculators/investments/rolling-returns-simulator/ | 10 | 21 |  |
+| /calculators/investments/drawdown-simulator/ | 6 | 12 |  |
 | /calculators/savings/compound-interest/ | 5 | 12 |  |
-| /calculators/investments/drawdown-simulator/ | 5 | 8 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 4 | 92 |  |
 | /calculators/savings/money-counter/ | 4 | 24 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 13 |  |
+| /calculators/income-tax/take-home-pay/ | 4 | 17 |  |
 | /fuel-prices/ | 4 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 39 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 21 |  |
@@ -26,10 +26,10 @@ _32 tools engaged · 90 people · 535 calculations · 17 with no engagement_
 | /calculators/pensions/pension-deferral/ | 2 | 2 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 19 |  |
 | /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
+| /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 8 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 6 |  |
-| /calculators/mortgage/invest-or-overpay-ca/ | 1 | 6 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
 | /calculators/maths/average-calculator/ | 1 | 3 |  |

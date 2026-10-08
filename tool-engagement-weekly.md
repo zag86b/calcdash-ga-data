@@ -1,13 +1,13 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_25 tools engaged · 53 people · 283 calculations · 24 with no engagement_
+_25 tools engaged · 51 people · 279 calculations · 24 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/rolling-returns-simulator/ | 8 | 16 |  |
-| /calculators/investments/sp500-calculator/ | 6 | 30 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 8 |  |
-| /calculators/investments/drawdown-simulator/ | 4 | 7 |  |
+| /calculators/investments/rolling-returns-simulator/ | 7 | 15 |  |
+| /calculators/investments/drawdown-simulator/ | 5 | 11 |  |
+| /calculators/investments/sp500-calculator/ | 4 | 17 |  |
+| /calculators/income-tax/take-home-pay/ | 4 | 12 |  |
 | /calculators/savings/compound-interest/ | 3 | 4 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 42 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
@@ -21,10 +21,10 @@ _25 tools engaged · 53 people · 283 calculations · 24 with no engagement_
 | /calculators/investments/sp500-period-comparison/ | 1 | 19 |  |
 | /calculators/savings/isa-calculator/ | 1 | 15 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 9 |  |
+| /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 1 | 7 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 6 |  |
-| /calculators/mortgage/invest-or-overpay-ca/ | 1 | 6 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/mortgage/mortgage-repayment/ | 1 | 2 |  |
 | /calculators/unit-converters/pace/ | 1 | 2 |  |
