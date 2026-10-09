@@ -1,28 +1,29 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_32 tools engaged · 91 people · 545 calculations · 17 with no engagement_
+_32 tools engaged · 97 people · 579 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 15 | 49 |  |
+| /calculators/investments/sp500-calculator/ | 17 | 56 |  |
 | /calculators/investments/rolling-returns-simulator/ | 10 | 21 |  |
 | /calculators/investments/drawdown-simulator/ | 6 | 12 |  |
+| /calculators/savings/money-counter/ | 5 | 24 |  |
 | /calculators/savings/compound-interest/ | 5 | 12 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 4 | 92 |  |
-| /calculators/savings/money-counter/ | 4 | 24 |  |
 | /calculators/income-tax/take-home-pay/ | 4 | 17 |  |
 | /fuel-prices/ | 4 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 39 |  |
+| /calculators/mortgage/mortgage-repayment/ | 3 | 25 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 21 |  |
 | /calculators/maths/million-to-billion-converter/ | 3 | 14 |  |
+| /calculators/unit-converters/weight/ | 3 | 9 |  |
 | /calculators/investments/fire-calculator/ | 2 | 91 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
 | /calculators/savings/isa-calculator/ | 2 | 16 |  |
-| /calculators/unit-converters/weight/ | 2 | 6 |  |
+| /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/unit-converters/speed/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
-| /calculators/mortgage/mortgage-repayment/ | 2 | 3 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 2 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 19 |  |
 | /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
@@ -33,7 +34,6 @@ _32 tools engaged · 91 people · 545 calculations · 17 with no engagement_
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
 | /calculators/maths/average-calculator/ | 1 | 3 |  |
-| /calculators/unit-converters/pace/ | 1 | 2 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 1 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
