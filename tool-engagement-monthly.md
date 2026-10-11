@@ -1,13 +1,13 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_33 tools engaged · 99 people · 586 calculations · 16 with no engagement_
+_33 tools engaged · 103 people · 602 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 17 | 55 |  |
-| /calculators/investments/rolling-returns-simulator/ | 10 | 21 |  |
+| /calculators/investments/sp500-calculator/ | 18 | 57 |  |
+| /calculators/investments/rolling-returns-simulator/ | 11 | 23 |  |
+| /calculators/savings/money-counter/ | 6 | 26 |  |
 | /calculators/investments/drawdown-simulator/ | 6 | 12 |  |
-| /calculators/savings/money-counter/ | 5 | 24 |  |
 | /calculators/savings/compound-interest/ | 5 | 12 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 4 | 92 |  |
 | /calculators/maths/million-to-billion-converter/ | 4 | 18 |  |
@@ -16,11 +16,12 @@ _33 tools engaged · 99 people · 586 calculations · 16 with no engagement_
 | /calculators/income-tax/two-jobs-tax/ | 3 | 39 |  |
 | /calculators/mortgage/mortgage-repayment/ | 3 | 24 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 21 |  |
-| /calculators/unit-converters/weight/ | 3 | 9 |  |
+| /calculators/unit-converters/weight/ | 3 | 10 |  |
 | /calculators/investments/fire-calculator/ | 2 | 91 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
 | /calculators/savings/isa-calculator/ | 2 | 16 |  |
+| /calculators/income-tax/pro-rata-salary/ | 2 | 15 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/unit-converters/speed/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
@@ -30,7 +31,6 @@ _33 tools engaged · 99 people · 586 calculations · 16 with no engagement_
 | /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 8 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
-| /calculators/income-tax/pro-rata-salary/ | 1 | 6 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/unit-converters/acceleration/ | 1 | 5 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
