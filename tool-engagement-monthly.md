@@ -1,14 +1,14 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_33 tools engaged · 103 people · 602 calculations · 16 with no engagement_
+_33 tools engaged · 106 people · 618 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 18 | 57 |  |
-| /calculators/investments/rolling-returns-simulator/ | 11 | 23 |  |
+| /calculators/investments/sp500-calculator/ | 19 | 57 |  |
+| /calculators/investments/rolling-returns-simulator/ | 11 | 22 |  |
+| /calculators/investments/drawdown-simulator/ | 7 | 13 |  |
 | /calculators/savings/money-counter/ | 6 | 26 |  |
-| /calculators/investments/drawdown-simulator/ | 6 | 12 |  |
-| /calculators/savings/compound-interest/ | 5 | 12 |  |
+| /calculators/savings/compound-interest/ | 5 | 22 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 4 | 92 |  |
 | /calculators/maths/million-to-billion-converter/ | 4 | 18 |  |
 | /calculators/income-tax/take-home-pay/ | 4 | 17 |  |
@@ -19,14 +19,14 @@ _33 tools engaged · 103 people · 602 calculations · 16 with no engagement_
 | /calculators/unit-converters/weight/ | 3 | 10 |  |
 | /calculators/investments/fire-calculator/ | 2 | 91 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
+| /calculators/investments/sp500-period-comparison/ | 2 | 22 |  |
+| /calculators/income-tax/pro-rata-salary/ | 2 | 18 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
 | /calculators/savings/isa-calculator/ | 2 | 16 |  |
-| /calculators/income-tax/pro-rata-salary/ | 2 | 15 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/unit-converters/speed/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 2 |  |
-| /calculators/investments/sp500-period-comparison/ | 1 | 19 |  |
 | /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
 | /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 8 |  |
