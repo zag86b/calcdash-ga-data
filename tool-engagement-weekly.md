@@ -1,23 +1,23 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_17 tools engaged · 36 people · 154 calculations · 32 with no engagement_
+_17 tools engaged · 28 people · 112 calculations · 32 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/rolling-returns-simulator/ | 7 | 15 |  |
-| /calculators/investments/sp500-calculator/ | 5 | 8 |  |
-| /calculators/investments/drawdown-simulator/ | 4 | 10 |  |
-| /calculators/maths/million-to-billion-converter/ | 3 | 13 |  |
-| /calculators/mortgage/mortgage-repayment/ | 2 | 23 |  |
-| /calculators/investments/sp500-period-comparison/ | 2 | 22 |  |
-| /calculators/income-tax/pro-rata-salary/ | 2 | 18 |  |
+| /calculators/investments/sp500-calculator/ | 5 | 9 |  |
+| /calculators/investments/rolling-returns-simulator/ | 4 | 6 |  |
+| /calculators/investments/drawdown-simulator/ | 3 | 7 |  |
+| /calculators/maths/million-to-billion-converter/ | 2 | 9 |  |
 | /calculators/savings/money-counter/ | 2 | 2 |  |
+| /calculators/mortgage/mortgage-repayment/ | 1 | 21 |  |
+| /calculators/income-tax/pro-rata-salary/ | 1 | 13 |  |
 | /calculators/savings/compound-interest/ | 1 | 10 |  |
 | /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
-| /calculators/income-tax/take-home-pay/ | 1 | 5 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 5 |  |
 | /calculators/unit-converters/acceleration/ | 1 | 5 |  |
+| /calculators/income-tax/take-home-pay/ | 1 | 4 |  |
 | /calculators/unit-converters/weight/ | 1 | 4 |  |
+| /calculators/investments/sp500-period-comparison/ | 1 | 3 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 2 |  |
 | /calculators/unit-converters/pace/ | 1 | 2 |  |
 | /fuel-prices/ | 1 | 2 |  |

@@ -1,16 +1,16 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_33 tools engaged · 106 people · 618 calculations · 16 with no engagement_
+_33 tools engaged · 107 people · 625 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 19 | 57 |  |
+| /calculators/investments/sp500-calculator/ | 19 | 58 |  |
 | /calculators/investments/rolling-returns-simulator/ | 11 | 22 |  |
 | /calculators/investments/drawdown-simulator/ | 7 | 13 |  |
 | /calculators/savings/money-counter/ | 6 | 26 |  |
+| /calculators/maths/million-to-billion-converter/ | 5 | 23 |  |
 | /calculators/savings/compound-interest/ | 5 | 22 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 4 | 92 |  |
-| /calculators/maths/million-to-billion-converter/ | 4 | 18 |  |
 | /calculators/income-tax/take-home-pay/ | 4 | 17 |  |
 | /fuel-prices/ | 4 | 6 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 39 |  |
@@ -20,7 +20,7 @@ _33 tools engaged · 106 people · 618 calculations · 16 with no engagement_
 | /calculators/investments/fire-calculator/ | 2 | 91 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
 | /calculators/investments/sp500-period-comparison/ | 2 | 22 |  |
-| /calculators/income-tax/pro-rata-salary/ | 2 | 18 |  |
+| /calculators/income-tax/pro-rata-salary/ | 2 | 19 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
 | /calculators/savings/isa-calculator/ | 2 | 16 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
