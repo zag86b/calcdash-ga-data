@@ -1,6 +1,6 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_34 tools engaged · 128 people · 725 calculations · 16 with no engagement_
+_34 tools engaged · 126 people · 724 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
@@ -10,11 +10,11 @@ _34 tools engaged · 128 people · 725 calculations · 16 with no engagement_
 | /calculators/investments/drawdown-simulator/ | 9 | 14 |  |
 | /calculators/income-tax/take-home-pay/ | 6 | 17 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 5 | 100 |  |
-| /calculators/savings/compound-interest/ | 5 | 26 |  |
 | /calculators/savings/money-counter/ | 5 | 25 |  |
 | /fuel-prices/ | 5 | 7 |  |
 | /calculators/pensions/pension-deferral/ | 5 | 5 |  |
 | /calculators/mortgage/mortgage-repayment/ | 4 | 26 |  |
+| /calculators/savings/compound-interest/ | 4 | 26 |  |
 | /calculators/savings/isa-calculator/ | 4 | 18 |  |
 | /calculators/investments/fire-calculator/ | 3 | 143 |  |
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
@@ -26,7 +26,6 @@ _34 tools engaged · 128 people · 725 calculations · 16 with no engagement_
 | /calculators/income-tax/two-jobs-tax/ | 2 | 15 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 2 | 5 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
-| /calculators/unit-converters/speed/ | 2 | 4 |  |
 | /calculators/unit-converters/torque/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
 | /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
@@ -37,6 +36,7 @@ _34 tools engaged · 128 people · 725 calculations · 16 with no engagement_
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/unit-converters/acceleration/ | 1 | 5 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
+| /calculators/unit-converters/speed/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/debt-snowball/ | 0 | 0 | no engagement — investigate |

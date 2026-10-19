@@ -1,21 +1,21 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_19 tools engaged · 34 people · 170 calculations · 31 with no engagement_
+_19 tools engaged · 32 people · 156 calculations · 31 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/maths/million-to-billion-converter/ | 5 | 20 |  |
-| /calculators/investments/sp500-calculator/ | 3 | 3 |  |
 | /calculators/pensions/pension-deferral/ | 3 | 3 |  |
 | /calculators/investments/drawdown-simulator/ | 3 | 2 |  |
-| /calculators/income-tax/pro-rata-salary/ | 2 | 20 |  |
 | /calculators/investments/sp500-period-comparison/ | 2 | 16 |  |
 | /calculators/savings/compound-interest/ | 2 | 16 |  |
+| /calculators/investments/sp500-calculator/ | 2 | 2 |  |
 | /calculators/savings/isa-calculator/ | 2 | 2 |  |
 | /calculators/income-tax/take-home-pay/ | 2 | 0 |  |
 | /calculators/investments/fire-calculator/ | 1 | 52 |  |
 | /calculators/investments/coast-fire-calculator/ | 1 | 8 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 8 |  |
+| /calculators/income-tax/pro-rata-salary/ | 1 | 7 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 7 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 4 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
