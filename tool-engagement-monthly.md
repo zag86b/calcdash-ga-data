@@ -1,13 +1,13 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_34 tools engaged · 126 people · 724 calculations · 16 with no engagement_
+_34 tools engaged · 127 people · 723 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/investments/sp500-calculator/ | 19 | 56 |  |
 | /calculators/investments/rolling-returns-simulator/ | 11 | 20 |  |
-| /calculators/maths/million-to-billion-converter/ | 9 | 38 |  |
-| /calculators/investments/drawdown-simulator/ | 9 | 14 |  |
+| /calculators/investments/drawdown-simulator/ | 10 | 16 |  |
+| /calculators/maths/million-to-billion-converter/ | 8 | 33 |  |
 | /calculators/income-tax/take-home-pay/ | 6 | 17 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 5 | 100 |  |
 | /calculators/savings/money-counter/ | 5 | 25 |  |
@@ -24,6 +24,7 @@ _34 tools engaged · 126 people · 724 calculations · 16 with no engagement_
 | /calculators/unit-converters/weight/ | 3 | 10 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
 | /calculators/income-tax/two-jobs-tax/ | 2 | 15 |  |
+| /calculators/unit-converters/acceleration/ | 2 | 7 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 2 | 5 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/unit-converters/torque/ | 2 | 4 |  |
@@ -34,7 +35,6 @@ _34 tools engaged · 126 people · 724 calculations · 16 with no engagement_
 | /calculators/outdoors/walking-time-calculator/ | 1 | 8 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
-| /calculators/unit-converters/acceleration/ | 1 | 5 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
 | /calculators/unit-converters/speed/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
