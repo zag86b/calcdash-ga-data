@@ -1,30 +1,30 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_34 tools engaged · 134 people · 767 calculations · 16 with no engagement_
+_34 tools engaged · 134 people · 686 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 19 | 56 |  |
+| /calculators/investments/sp500-calculator/ | 20 | 62 |  |
 | /calculators/investments/rolling-returns-simulator/ | 11 | 20 |  |
-| /calculators/investments/drawdown-simulator/ | 11 | 19 |  |
+| /calculators/investments/drawdown-simulator/ | 10 | 18 |  |
+| /calculators/unit-converters/weight/ | 9 | 40 |  |
 | /calculators/maths/million-to-billion-converter/ | 8 | 33 |  |
-| /calculators/unit-converters/weight/ | 7 | 24 |  |
-| /calculators/income-tax/take-home-pay/ | 7 | 23 |  |
-| /calculators/investments/fire-calculator/ | 5 | 153 |  |
+| /calculators/income-tax/take-home-pay/ | 7 | 18 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 5 | 104 |  |
 | /calculators/mortgage/mortgage-repayment/ | 5 | 27 |  |
-| /calculators/savings/money-counter/ | 5 | 25 |  |
+| /calculators/savings/compound-interest/ | 5 | 20 |  |
 | /calculators/pensions/pension-deferral/ | 5 | 5 |  |
-| /calculators/savings/compound-interest/ | 4 | 26 |  |
+| /calculators/investments/fire-calculator/ | 4 | 94 |  |
 | /calculators/savings/isa-calculator/ | 4 | 18 |  |
+| /calculators/savings/money-counter/ | 4 | 8 |  |
 | /fuel-prices/ | 4 | 5 |  |
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
 | /calculators/income-tax/pro-rata-salary/ | 3 | 26 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 26 |  |
-| /calculators/mortgage/invest-or-overpay/ | 3 | 23 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 3 | 21 |  |
+| /calculators/unit-converters/acceleration/ | 3 | 12 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
-| /calculators/unit-converters/acceleration/ | 2 | 7 |  |
+| /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 2 | 8 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
 | /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
