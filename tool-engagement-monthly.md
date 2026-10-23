@@ -1,10 +1,10 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_34 tools engaged · 134 people · 686 calculations · 16 with no engagement_
+_34 tools engaged · 133 people · 681 calculations · 16 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 20 | 62 |  |
+| /calculators/investments/sp500-calculator/ | 19 | 57 |  |
 | /calculators/investments/rolling-returns-simulator/ | 11 | 20 |  |
 | /calculators/investments/drawdown-simulator/ | 10 | 18 |  |
 | /calculators/unit-converters/weight/ | 9 | 40 |  |
@@ -17,15 +17,16 @@ _34 tools engaged · 134 people · 686 calculations · 16 with no engagement_
 | /calculators/investments/fire-calculator/ | 4 | 94 |  |
 | /calculators/savings/isa-calculator/ | 4 | 18 |  |
 | /calculators/savings/money-counter/ | 4 | 8 |  |
-| /fuel-prices/ | 4 | 5 |  |
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
 | /calculators/income-tax/pro-rata-salary/ | 3 | 26 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 26 |  |
 | /calculators/unit-converters/acceleration/ | 3 | 12 |  |
+| /fuel-prices/ | 3 | 4 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 2 | 8 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
+| /calculators/unit-converters/speed/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
 | /calculators/income-tax/hourly-wage/ | 1 | 9 |  |
 | /calculators/investments/coast-fire-calculator/ | 1 | 8 |  |
@@ -35,7 +36,6 @@ _34 tools engaged · 134 people · 686 calculations · 16 with no engagement_
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 4 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
-| /calculators/unit-converters/speed/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
