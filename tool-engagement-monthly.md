@@ -1,11 +1,11 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_35 tools engaged · 135 people · 693 calculations · 17 with no engagement_
+_35 tools engaged · 138 people · 722 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 18 | 55 |  |
-| /calculators/unit-converters/weight/ | 10 | 49 |  |
+| /calculators/investments/sp500-calculator/ | 17 | 52 |  |
+| /calculators/unit-converters/weight/ | 11 | 50 |  |
 | /calculators/investments/drawdown-simulator/ | 10 | 18 |  |
 | /calculators/investments/rolling-returns-simulator/ | 10 | 18 |  |
 | /calculators/maths/million-to-billion-converter/ | 8 | 33 |  |
@@ -19,13 +19,15 @@ _35 tools engaged · 135 people · 693 calculations · 17 with no engagement_
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
 | /calculators/income-tax/pro-rata-salary/ | 3 | 26 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 26 |  |
+| /calculators/mortgage/invest-or-overpay/ | 3 | 22 |  |
 | /calculators/savings/isa-calculator/ | 3 | 17 |  |
 | /calculators/unit-converters/acceleration/ | 3 | 12 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 9 |  |
 | /calculators/unit-converters/speed/ | 3 | 6 |  |
 | /fuel-prices/ | 3 | 4 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
-| /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
+| /calculators/debt/balance-transfer-fee-calculator/ | 2 | 22 |  |
+| /calculators/savings/till-calculator/ | 2 | 8 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
 | /calculators/income-tax/maternity-sick-pay/ | 1 | 11 |  |
@@ -34,11 +36,9 @@ _35 tools engaged · 135 people · 693 calculations · 17 with no engagement_
 | /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
-| /calculators/debt/balance-transfer-fee-calculator/ | 1 | 4 |  |
 | /calculators/income-tax/civil-service-take-home-pay/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
-| /calculators/savings/till-calculator/ | 1 | 1 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/debt-snowball/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/compare-two-salaries/ | 0 | 0 | no engagement — investigate |
