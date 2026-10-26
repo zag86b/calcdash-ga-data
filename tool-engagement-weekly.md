@@ -1,15 +1,15 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_16 tools engaged · 29 people · 138 calculations · 36 with no engagement_
+_18 tools engaged · 34 people · 154 calculations · 36 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/unit-converters/weight/ | 8 | 40 |  |
+| /calculators/unit-converters/weight/ | 10 | 49 |  |
+| /calculators/unit-converters/speed/ | 3 | 7 |  |
 | /calculators/investments/fire-calculator/ | 2 | 10 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 7 |  |
 | /calculators/investments/drawdown-simulator/ | 2 | 5 |  |
-| /calculators/unit-converters/speed/ | 2 | 3 |  |
 | /calculators/savings/compound-interest/ | 2 | 1 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 18 |  |
 | /calculators/income-tax/maternity-sick-pay/ | 1 | 11 |  |
@@ -18,8 +18,10 @@ _16 tools engaged · 29 people · 138 calculations · 36 with no engagement_
 | /calculators/investments/sp500-calculator/ | 1 | 6 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 6 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 1 | 4 |  |
+| /calculators/unit-converters/length/ | 1 | 2 |  |
 | /calculators/mortgage/mortgage-repayment/ | 1 | 1 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 1 | 1 |  |
+| /calculators/unit-converters/force/ | 1 | 1 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/debt-snowball/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/civil-service-take-home-pay/ | 0 | 0 | no engagement — investigate |
