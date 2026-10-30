@@ -1,11 +1,11 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_38 tools engaged · 146 people · 736 calculations · 17 with no engagement_
+_39 tools engaged · 145 people · 739 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/unit-converters/weight/ | 15 | 75 |  |
-| /calculators/investments/sp500-calculator/ | 14 | 48 |  |
+| /calculators/investments/sp500-calculator/ | 13 | 47 |  |
 | /calculators/investments/rolling-returns-simulator/ | 11 | 24 |  |
 | /calculators/investments/drawdown-simulator/ | 10 | 18 |  |
 | /calculators/maths/million-to-billion-converter/ | 9 | 41 |  |
@@ -16,7 +16,6 @@ _38 tools engaged · 146 people · 736 calculations · 17 with no engagement_
 | /calculators/income-tax/pro-rata-salary/ | 4 | 33 |  |
 | /calculators/mortgage/mortgage-repayment/ | 4 | 26 |  |
 | /calculators/unit-converters/acceleration/ | 4 | 13 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 4 | 11 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 3 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 3 | 54 |  |
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
@@ -24,6 +23,7 @@ _38 tools engaged · 146 people · 736 calculations · 17 with no engagement_
 | /calculators/income-tax/two-jobs-tax/ | 3 | 26 |  |
 | /calculators/mortgage/invest-or-overpay/ | 3 | 22 |  |
 | /calculators/savings/isa-calculator/ | 3 | 17 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 3 | 10 |  |
 | /calculators/unit-converters/speed/ | 3 | 7 |  |
 | /fuel-prices/ | 3 | 4 |  |
 | /calculators/savings/budget-planner/ | 2 | 23 |  |
@@ -37,6 +37,7 @@ _38 tools engaged · 146 people · 736 calculations · 17 with no engagement_
 | /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
+| /calculators/mortgage/invest-or-overpay-us/ | 1 | 5 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |

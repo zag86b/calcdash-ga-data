@@ -1,14 +1,14 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_19 tools engaged · 32 people · 152 calculations · 36 with no engagement_
+_20 tools engaged · 31 people · 148 calculations · 36 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/unit-converters/weight/ | 7 | 43 |  |
-| /calculators/unit-converters/speed/ | 3 | 7 |  |
+| /calculators/unit-converters/weight/ | 6 | 35 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 2 | 27 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
 | /calculators/investments/rolling-returns-simulator/ | 2 | 6 |  |
+| /calculators/unit-converters/speed/ | 2 | 6 |  |
 | /calculators/unit-converters/length/ | 2 | 4 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 2 | 3 |  |
 | /calculators/debt/balance-transfer-calculator/ | 1 | 12 |  |
@@ -16,6 +16,7 @@ _19 tools engaged · 32 people · 152 calculations · 36 with no engagement_
 | /calculators/maths/million-to-billion-converter/ | 1 | 8 |  |
 | /calculators/income-tax/pro-rata-salary/ | 1 | 7 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 6 |  |
+| /calculators/mortgage/invest-or-overpay-us/ | 1 | 5 |  |
 | /calculators/income-tax/take-home-pay/ | 1 | 4 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /calculators/savings/compound-interest/ | 1 | 1 |  |
