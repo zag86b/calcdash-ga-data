@@ -1,15 +1,15 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_39 tools engaged · 145 people · 739 calculations · 17 with no engagement_
+_39 tools engaged · 146 people · 742 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/unit-converters/weight/ | 15 | 75 |  |
-| /calculators/investments/sp500-calculator/ | 13 | 47 |  |
-| /calculators/investments/rolling-returns-simulator/ | 11 | 24 |  |
+| /calculators/investments/sp500-calculator/ | 13 | 42 |  |
+| /calculators/maths/million-to-billion-converter/ | 10 | 46 |  |
+| /calculators/investments/rolling-returns-simulator/ | 10 | 23 |  |
 | /calculators/investments/drawdown-simulator/ | 10 | 18 |  |
-| /calculators/maths/million-to-billion-converter/ | 9 | 41 |  |
-| /calculators/income-tax/take-home-pay/ | 7 | 22 |  |
+| /calculators/income-tax/take-home-pay/ | 8 | 26 |  |
 | /calculators/savings/compound-interest/ | 6 | 21 |  |
 | /calculators/savings/money-counter/ | 5 | 9 |  |
 | /calculators/investments/fire-calculator/ | 4 | 94 |  |
