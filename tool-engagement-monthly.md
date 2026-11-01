@@ -1,36 +1,35 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_39 tools engaged · 146 people · 742 calculations · 17 with no engagement_
+_39 tools engaged · 145 people · 690 calculations · 17 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/unit-converters/weight/ | 15 | 75 |  |
-| /calculators/investments/sp500-calculator/ | 13 | 42 |  |
-| /calculators/maths/million-to-billion-converter/ | 10 | 46 |  |
+| /calculators/investments/sp500-calculator/ | 13 | 44 |  |
+| /calculators/maths/million-to-billion-converter/ | 11 | 49 |  |
 | /calculators/investments/rolling-returns-simulator/ | 10 | 23 |  |
 | /calculators/investments/drawdown-simulator/ | 10 | 18 |  |
 | /calculators/income-tax/take-home-pay/ | 8 | 26 |  |
-| /calculators/savings/compound-interest/ | 6 | 21 |  |
+| /calculators/savings/compound-interest/ | 6 | 19 |  |
+| /calculators/mortgage/mortgage-repayment/ | 5 | 35 |  |
 | /calculators/savings/money-counter/ | 5 | 9 |  |
 | /calculators/investments/fire-calculator/ | 4 | 94 |  |
 | /calculators/income-tax/pro-rata-salary/ | 4 | 33 |  |
-| /calculators/mortgage/mortgage-repayment/ | 4 | 26 |  |
 | /calculators/unit-converters/acceleration/ | 4 | 13 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 3 |  |
-| /calculators/mortgage/mortgage-overpayment/ | 3 | 54 |  |
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 31 |  |
 | /calculators/income-tax/two-jobs-tax/ | 3 | 26 |  |
 | /calculators/mortgage/invest-or-overpay/ | 3 | 22 |  |
 | /calculators/savings/isa-calculator/ | 3 | 17 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 3 | 10 |  |
 | /calculators/unit-converters/speed/ | 3 | 7 |  |
 | /fuel-prices/ | 3 | 4 |  |
-| /calculators/savings/budget-planner/ | 2 | 23 |  |
+| /calculators/mortgage/mortgage-overpayment/ | 2 | 17 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
 | /calculators/unit-converters/length/ | 2 | 4 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 2 | 3 |  |
 | /calculators/debt/balance-transfer-calculator/ | 1 | 12 |  |
 | /calculators/income-tax/maternity-sick-pay/ | 1 | 11 |  |
 | /calculators/investments/coast-fire-calculator/ | 1 | 8 |  |
@@ -38,6 +37,7 @@ _39 tools engaged · 146 people · 742 calculations · 17 with no engagement_
 | /calculators/income-tax/salary-sacrifice/ | 1 | 7 |  |
 | /calculators/savings/savings-goal/ | 1 | 6 |  |
 | /calculators/mortgage/invest-or-overpay-us/ | 1 | 5 |  |
+| /calculators/savings/budget-planner/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
