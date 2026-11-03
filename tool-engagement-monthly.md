@@ -1,16 +1,16 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_38 tools engaged · 137 people · 625 calculations · 19 with no engagement_
+_39 tools engaged · 139 people · 624 calculations · 19 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/unit-converters/weight/ | 14 | 71 |  |
-| /calculators/investments/sp500-calculator/ | 14 | 45 |  |
+| /calculators/investments/sp500-calculator/ | 13 | 43 |  |
 | /calculators/maths/million-to-billion-converter/ | 11 | 49 |  |
+| /calculators/investments/rolling-returns-simulator/ | 10 | 23 |  |
 | /calculators/investments/drawdown-simulator/ | 9 | 30 |  |
-| /calculators/investments/rolling-returns-simulator/ | 9 | 22 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 22 |  |
-| /calculators/savings/money-counter/ | 6 | 9 |  |
+| /calculators/income-tax/take-home-pay/ | 7 | 25 |  |
+| /calculators/savings/money-counter/ | 6 | 7 |  |
 | /calculators/mortgage/mortgage-repayment/ | 5 | 35 |  |
 | /calculators/income-tax/pro-rata-salary/ | 4 | 33 |  |
 | /calculators/savings/compound-interest/ | 4 | 21 |  |
@@ -20,11 +20,12 @@ _38 tools engaged · 137 people · 625 calculations · 19 with no engagement_
 | /calculators/investments/fire-calculator/ | 3 | 62 |  |
 | /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 31 |  |
-| /calculators/mortgage/invest-or-overpay/ | 3 | 22 |  |
 | /calculators/unit-converters/length/ | 3 | 6 |  |
 | /fuel-prices/ | 3 | 4 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 17 |  |
+| /calculators/mortgage/invest-or-overpay/ | 2 | 13 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
+| /calculators/pensions/retirement-planner/ | 2 | 7 |  |
 | /calculators/unit-converters/pace/ | 2 | 4 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 2 | 3 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 2 | 3 |  |
@@ -38,8 +39,8 @@ _38 tools engaged · 137 people · 625 calculations · 19 with no engagement_
 | /calculators/savings/budget-planner/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
+| /calculators/unit-converters/volume/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
-| /calculators/pensions/retirement-planner/ | 1 | 1 |  |
 | /calculators/unit-converters/force/ | 1 | 1 |  |
 | /calculators/mortgage/price-per-square-foot/ | 1 | 0 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
