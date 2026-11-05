@@ -1,29 +1,29 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_38 tools engaged · 132 people · 608 calculations · 20 with no engagement_
+_39 tools engaged · 126 people · 566 calculations · 20 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/unit-converters/weight/ | 13 | 69 |  |
 | /calculators/investments/sp500-calculator/ | 13 | 35 |  |
-| /calculators/maths/million-to-billion-converter/ | 11 | 49 |  |
-| /calculators/investments/rolling-returns-simulator/ | 10 | 23 |  |
-| /calculators/investments/drawdown-simulator/ | 9 | 30 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 22 |  |
+| /calculators/maths/million-to-billion-converter/ | 9 | 40 |  |
+| /calculators/investments/drawdown-simulator/ | 8 | 27 |  |
+| /calculators/investments/rolling-returns-simulator/ | 7 | 14 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 21 |  |
 | /calculators/unit-converters/speed/ | 6 | 14 |  |
-| /calculators/mortgage/mortgage-repayment/ | 5 | 35 |  |
-| /calculators/income-tax/pro-rata-salary/ | 4 | 33 |  |
+| /calculators/savings/money-counter/ | 5 | 3 |  |
+| /calculators/mortgage/mortgage-repayment/ | 4 | 33 |  |
 | /calculators/savings/compound-interest/ | 4 | 21 |  |
 | /calculators/unit-converters/acceleration/ | 4 | 13 |  |
-| /calculators/savings/money-counter/ | 4 | 3 |  |
 | /calculators/investments/fire-calculator/ | 3 | 62 |  |
-| /calculators/investments/sp500-period-comparison/ | 3 | 35 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 31 |  |
+| /calculators/income-tax/pro-rata-salary/ | 3 | 27 |  |
+| /calculators/pensions/retirement-planner/ | 3 | 10 |  |
 | /calculators/unit-converters/length/ | 3 | 6 |  |
 | /calculators/pensions/pension-deferral/ | 3 | 3 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 17 |  |
+| /calculators/investments/sp500-period-comparison/ | 2 | 16 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 13 |  |
-| /calculators/pensions/retirement-planner/ | 2 | 9 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 2 | 3 |  |
 | /fuel-prices/ | 2 | 3 |  |
@@ -33,6 +33,7 @@ _38 tools engaged · 132 people · 608 calculations · 20 with no engagement_
 | /calculators/income-tax/two-jobs-tax/ | 1 | 11 |  |
 | /calculators/investments/coast-fire-calculator/ | 1 | 8 |  |
 | /calculators/mortgage/invest-or-overpay-ca/ | 1 | 8 |  |
+| /calculators/income-tax/supply-teacher-day-rate/ | 1 | 6 |  |
 | /calculators/mortgage/invest-or-overpay-us/ | 1 | 5 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/income-tax/nhs-take-home-pay/ | 1 | 2 |  |
