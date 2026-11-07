@@ -1,29 +1,29 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_37 tools engaged · 125 people · 575 calculations · 22 with no engagement_
+_37 tools engaged · 127 people · 597 calculations · 22 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 14 | 44 |  |
+| /calculators/investments/sp500-calculator/ | 15 | 46 |  |
 | /calculators/unit-converters/weight/ | 13 | 69 |  |
 | /calculators/maths/million-to-billion-converter/ | 9 | 40 |  |
-| /calculators/investments/drawdown-simulator/ | 7 | 25 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 21 |  |
+| /calculators/investments/drawdown-simulator/ | 6 | 21 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 17 |  |
 | /calculators/unit-converters/speed/ | 6 | 14 |  |
 | /calculators/savings/money-counter/ | 6 | 3 |  |
+| /calculators/unit-converters/acceleration/ | 5 | 29 |  |
 | /calculators/investments/rolling-returns-simulator/ | 5 | 9 |  |
 | /calculators/mortgage/mortgage-repayment/ | 4 | 33 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 24 |  |
 | /calculators/savings/compound-interest/ | 4 | 21 |  |
-| /calculators/unit-converters/acceleration/ | 4 | 13 |  |
 | /calculators/investments/fire-calculator/ | 3 | 62 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 31 |  |
 | /calculators/income-tax/pro-rata-salary/ | 3 | 27 |  |
+| /calculators/mortgage/invest-or-overpay/ | 3 | 25 |  |
 | /calculators/pensions/retirement-planner/ | 3 | 10 |  |
 | /calculators/unit-converters/length/ | 3 | 6 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 4 |  |
 | /calculators/investments/sp500-period-comparison/ | 2 | 16 |  |
-| /calculators/mortgage/invest-or-overpay/ | 2 | 13 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 12 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
 | /calculators/unit-converters/force/ | 2 | 3 |  |
