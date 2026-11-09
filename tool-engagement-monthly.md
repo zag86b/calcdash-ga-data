@@ -1,17 +1,17 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_36 tools engaged · 124 people · 572 calculations · 23 with no engagement_
+_37 tools engaged · 127 people · 581 calculations · 23 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/unit-converters/weight/ | 14 | 70 |  |
+| /calculators/unit-converters/weight/ | 13 | 66 |  |
 | /calculators/investments/sp500-calculator/ | 13 | 40 |  |
 | /calculators/maths/million-to-billion-converter/ | 9 | 40 |  |
-| /calculators/unit-converters/acceleration/ | 6 | 32 |  |
+| /calculators/unit-converters/speed/ | 7 | 17 |  |
 | /calculators/investments/drawdown-simulator/ | 6 | 21 |  |
 | /calculators/income-tax/take-home-pay/ | 6 | 17 |  |
-| /calculators/unit-converters/speed/ | 6 | 14 |  |
-| /calculators/investments/rolling-returns-simulator/ | 5 | 9 |  |
+| /calculators/investments/rolling-returns-simulator/ | 6 | 11 |  |
+| /calculators/unit-converters/acceleration/ | 5 | 27 |  |
 | /calculators/savings/money-counter/ | 5 | 3 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 24 |  |
 | /calculators/savings/compound-interest/ | 4 | 21 |  |
@@ -25,7 +25,9 @@ _36 tools engaged · 124 people · 572 calculations · 23 with no engagement_
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 4 |  |
 | /calculators/investments/sp500-period-comparison/ | 2 | 16 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 12 |  |
+| /calculators/energy/heat-loss-calculator/ | 2 | 11 |  |
 | /calculators/savings/till-calculator/ | 2 | 8 |  |
+| /calculators/unit-converters/volume/ | 2 | 4 |  |
 | /calculators/unit-converters/force/ | 2 | 3 |  |
 | /calculators/savings/isa-calculator/ | 2 | 2 |  |
 | /calculators/debt/balance-transfer-calculator/ | 1 | 12 |  |
@@ -36,7 +38,6 @@ _36 tools engaged · 124 people · 572 calculations · 23 with no engagement_
 | /calculators/mortgage/invest-or-overpay-us/ | 1 | 5 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
-| /calculators/unit-converters/volume/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /fuel-prices/ | 1 | 1 |  |
 | /calculators/mortgage/price-per-square-foot/ | 1 | 0 |  |
