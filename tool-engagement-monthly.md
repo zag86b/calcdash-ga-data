@@ -1,20 +1,20 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_37 tools engaged · 127 people · 581 calculations · 23 with no engagement_
+_39 tools engaged · 128 people · 578 calculations · 23 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
+| /calculators/investments/sp500-calculator/ | 14 | 41 |  |
 | /calculators/unit-converters/weight/ | 13 | 66 |  |
-| /calculators/investments/sp500-calculator/ | 13 | 40 |  |
-| /calculators/maths/million-to-billion-converter/ | 9 | 40 |  |
+| /calculators/maths/million-to-billion-converter/ | 8 | 36 |  |
 | /calculators/unit-converters/speed/ | 7 | 17 |  |
 | /calculators/investments/drawdown-simulator/ | 6 | 21 |  |
 | /calculators/income-tax/take-home-pay/ | 6 | 17 |  |
 | /calculators/investments/rolling-returns-simulator/ | 6 | 11 |  |
 | /calculators/unit-converters/acceleration/ | 5 | 27 |  |
-| /calculators/savings/money-counter/ | 5 | 3 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 24 |  |
 | /calculators/savings/compound-interest/ | 4 | 21 |  |
+| /calculators/savings/money-counter/ | 4 | 1 |  |
 | /calculators/investments/fire-calculator/ | 3 | 62 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 31 |  |
 | /calculators/income-tax/pro-rata-salary/ | 3 | 27 |  |
@@ -39,6 +39,8 @@ _37 tools engaged · 127 people · 581 calculations · 23 with no engagement_
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/torque/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
+| /calculators/income-tax/nhs-take-home-pay/london-weighting/ | 1 | 1 |  |
+| /calculators/income-tax/resident-doctor-take-home-pay/ | 1 | 1 |  |
 | /fuel-prices/ | 1 | 1 |  |
 | /calculators/mortgage/price-per-square-foot/ | 1 | 0 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
