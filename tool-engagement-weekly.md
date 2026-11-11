@@ -1,15 +1,15 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_16 tools engaged · 30 people · 119 calculations · 46 with no engagement_
+_16 tools engaged · 27 people · 138 calculations · 46 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 6 | 20 |  |
-| /calculators/pensions/retirement-planner/ | 3 | 9 |  |
-| /calculators/unit-converters/speed/ | 3 | 9 |  |
-| /calculators/investments/rolling-returns-simulator/ | 3 | 4 |  |
+| /calculators/investments/sp500-calculator/ | 6 | 16 |  |
+| /calculators/unit-converters/speed/ | 2 | 34 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 19 |  |
 | /calculators/energy/heat-loss-calculator/ | 2 | 11 |  |
+| /calculators/unit-converters/weight/ | 2 | 8 |  |
+| /calculators/investments/rolling-returns-simulator/ | 2 | 3 |  |
 | /calculators/savings/money-counter/ | 2 | 0 |  |
 | /calculators/pensions/pension-deferral/ | 1 | 21 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 12 |  |
@@ -18,8 +18,8 @@ _16 tools engaged · 30 people · 119 calculations · 46 with no engagement_
 | /calculators/unit-converters/volume/ | 1 | 2 |  |
 | /calculators/income-tax/nhs-take-home-pay/london-weighting/ | 1 | 1 |  |
 | /calculators/income-tax/resident-doctor-take-home-pay/ | 1 | 1 |  |
+| /calculators/pensions/retirement-planner/ | 1 | 1 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 1 | 1 |  |
-| /calculators/unit-converters/weight/ | 1 | 1 |  |
 | /calculators/debt/balance-transfer-calculator/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/balance-transfer-fee-calculator/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
