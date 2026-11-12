@@ -1,16 +1,16 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_16 tools engaged · 27 people · 138 calculations · 46 with no engagement_
+_16 tools engaged · 28 people · 140 calculations · 46 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/investments/sp500-calculator/ | 6 | 16 |  |
-| /calculators/unit-converters/speed/ | 2 | 34 |  |
+| /calculators/investments/sp500-calculator/ | 7 | 17 |  |
+| /calculators/savings/money-counter/ | 3 | 5 |  |
 | /calculators/unit-converters/acceleration/ | 2 | 19 |  |
 | /calculators/energy/heat-loss-calculator/ | 2 | 11 |  |
 | /calculators/unit-converters/weight/ | 2 | 8 |  |
 | /calculators/investments/rolling-returns-simulator/ | 2 | 3 |  |
-| /calculators/savings/money-counter/ | 2 | 0 |  |
+| /calculators/unit-converters/speed/ | 1 | 30 |  |
 | /calculators/pensions/pension-deferral/ | 1 | 21 |  |
 | /calculators/mortgage/invest-or-overpay/ | 1 | 12 |  |
 | /calculators/income-tax/supply-teacher-day-rate/ | 1 | 6 |  |
@@ -18,7 +18,7 @@ _16 tools engaged · 27 people · 138 calculations · 46 with no engagement_
 | /calculators/unit-converters/volume/ | 1 | 2 |  |
 | /calculators/income-tax/nhs-take-home-pay/london-weighting/ | 1 | 1 |  |
 | /calculators/income-tax/resident-doctor-take-home-pay/ | 1 | 1 |  |
-| /calculators/pensions/retirement-planner/ | 1 | 1 |  |
+| /calculators/income-tax/take-home-pay/ | 1 | 1 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 1 | 1 |  |
 | /calculators/debt/balance-transfer-calculator/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/balance-transfer-fee-calculator/ | 0 | 0 | no engagement — investigate |
@@ -32,7 +32,6 @@ _16 tools engaged · 27 people · 138 calculations · 46 with no engagement_
 | /calculators/income-tax/nhs-take-home-pay/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/pro-rata-salary/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/salary-sacrifice/ | 0 | 0 | no engagement — investigate |
-| /calculators/income-tax/take-home-pay/ | 0 | 0 | no engagement — investigate |
 | /calculators/income-tax/two-jobs-tax/ | 0 | 0 | no engagement — investigate |
 | /calculators/investments/coast-fire-calculator/ | 0 | 0 | no engagement — investigate |
 | /calculators/investments/drawdown-simulator/ | 0 | 0 | no engagement — investigate |
@@ -50,6 +49,7 @@ _16 tools engaged · 27 people · 138 calculations · 46 with no engagement_
 | /calculators/mortgage/mortgage-repayment/ | 0 | 0 | no engagement — investigate |
 | /calculators/mortgage/price-per-square-foot/ | 0 | 0 | no engagement — investigate |
 | /calculators/outdoors/walking-time-calculator/ | 0 | 0 | no engagement — investigate |
+| /calculators/pensions/retirement-planner/ | 0 | 0 | no engagement — investigate |
 | /calculators/pensions/state-pension-deferral/ | 0 | 0 | no engagement — investigate |
 | /calculators/savings/budget-planner/ | 0 | 0 | no engagement — investigate |
 | /calculators/savings/compound-interest/ | 0 | 0 | no engagement — investigate |
@@ -67,5 +67,5 @@ _16 tools engaged · 27 people · 138 calculations · 46 with no engagement_
 | /fuel-prices/ | 0 | 0 | no engagement — investigate |
 | /nc500-fuel-cost-calculator/ | 0 | 0 | no engagement — investigate |
 
-> ⚠ No engagement (investigate): /calculators/debt/balance-transfer-calculator/, /calculators/debt/balance-transfer-fee-calculator/, /calculators/debt/debt-avalanche/, /calculators/debt/debt-snowball/, /calculators/income-tax/civil-service-take-home-pay/, /calculators/income-tax/compare-two-salaries/, /calculators/income-tax/hourly-to-salary/, /calculators/income-tax/hourly-wage/, /calculators/income-tax/maternity-sick-pay/, /calculators/income-tax/nhs-take-home-pay/, /calculators/income-tax/pro-rata-salary/, /calculators/income-tax/salary-sacrifice/, /calculators/income-tax/take-home-pay/, /calculators/income-tax/two-jobs-tax/, /calculators/investments/coast-fire-calculator/, /calculators/investments/drawdown-simulator/, /calculators/investments/fire-calculator/, /calculators/investments/forex-compounding/, /calculators/investments/personal-investment-return/, /calculators/investments/sp500-calculator, /calculators/investments/sp500-period-comparison/, /calculators/maths/average-calculator/, /calculators/maths/million-to-billion-converter/, /calculators/mortgage/invest-or-overpay-ca/, /calculators/mortgage/invest-or-overpay-us/, /calculators/mortgage/mortgage-affordability/, /calculators/mortgage/mortgage-overpayment/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/outdoors/walking-time-calculator/, /calculators/pensions/state-pension-deferral/, /calculators/savings/budget-planner/, /calculators/savings/compound-interest/, /calculators/savings/isa-calculator/, /calculators/savings/savings-goal/, /calculators/savings/till-calculator/, /calculators/tax/stamp-duty/, /calculators/unit-converters/energy/, /calculators/unit-converters/length/, /calculators/unit-converters/pace/, /calculators/unit-converters/power/, /calculators/unit-converters/stress/, /calculators/unit-converters/torque/, /fuel-prices-lake-district/, /fuel-prices/, /nc500-fuel-cost-calculator/
+> ⚠ No engagement (investigate): /calculators/debt/balance-transfer-calculator/, /calculators/debt/balance-transfer-fee-calculator/, /calculators/debt/debt-avalanche/, /calculators/debt/debt-snowball/, /calculators/income-tax/civil-service-take-home-pay/, /calculators/income-tax/compare-two-salaries/, /calculators/income-tax/hourly-to-salary/, /calculators/income-tax/hourly-wage/, /calculators/income-tax/maternity-sick-pay/, /calculators/income-tax/nhs-take-home-pay/, /calculators/income-tax/pro-rata-salary/, /calculators/income-tax/salary-sacrifice/, /calculators/income-tax/two-jobs-tax/, /calculators/investments/coast-fire-calculator/, /calculators/investments/drawdown-simulator/, /calculators/investments/fire-calculator/, /calculators/investments/forex-compounding/, /calculators/investments/personal-investment-return/, /calculators/investments/sp500-calculator, /calculators/investments/sp500-period-comparison/, /calculators/maths/average-calculator/, /calculators/maths/million-to-billion-converter/, /calculators/mortgage/invest-or-overpay-ca/, /calculators/mortgage/invest-or-overpay-us/, /calculators/mortgage/mortgage-affordability/, /calculators/mortgage/mortgage-overpayment/, /calculators/mortgage/mortgage-repayment/, /calculators/mortgage/price-per-square-foot/, /calculators/outdoors/walking-time-calculator/, /calculators/pensions/retirement-planner/, /calculators/pensions/state-pension-deferral/, /calculators/savings/budget-planner/, /calculators/savings/compound-interest/, /calculators/savings/isa-calculator/, /calculators/savings/savings-goal/, /calculators/savings/till-calculator/, /calculators/tax/stamp-duty/, /calculators/unit-converters/energy/, /calculators/unit-converters/length/, /calculators/unit-converters/pace/, /calculators/unit-converters/power/, /calculators/unit-converters/stress/, /calculators/unit-converters/torque/, /fuel-prices-lake-district/, /fuel-prices/, /nc500-fuel-cost-calculator/
 

@@ -1,20 +1,20 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_39 tools engaged · 128 people · 600 calculations · 23 with no engagement_
+_39 tools engaged · 127 people · 585 calculations · 23 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
+| /calculators/investments/sp500-calculator/ | 15 | 43 |  |
 | /calculators/unit-converters/weight/ | 14 | 73 |  |
-| /calculators/investments/sp500-calculator/ | 14 | 42 |  |
-| /calculators/maths/million-to-billion-converter/ | 8 | 36 |  |
 | /calculators/unit-converters/speed/ | 7 | 44 |  |
-| /calculators/investments/drawdown-simulator/ | 6 | 21 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 17 |  |
+| /calculators/maths/million-to-billion-converter/ | 7 | 31 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 18 |  |
 | /calculators/investments/rolling-returns-simulator/ | 6 | 11 |  |
 | /calculators/unit-converters/acceleration/ | 5 | 27 |  |
+| /calculators/investments/drawdown-simulator/ | 5 | 20 |  |
+| /calculators/savings/money-counter/ | 5 | 6 |  |
 | /calculators/pensions/pension-deferral/ | 4 | 24 |  |
-| /calculators/savings/compound-interest/ | 4 | 21 |  |
-| /calculators/savings/money-counter/ | 4 | 1 |  |
+| /calculators/savings/compound-interest/ | 4 | 8 |  |
 | /calculators/investments/fire-calculator/ | 3 | 62 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 31 |  |
 | /calculators/mortgage/invest-or-overpay/ | 3 | 25 |  |
@@ -22,7 +22,6 @@ _39 tools engaged · 128 people · 600 calculations · 23 with no engagement_
 | /calculators/pensions/retirement-planner/ | 3 | 10 |  |
 | /calculators/unit-converters/length/ | 3 | 6 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 3 | 4 |  |
-| /calculators/investments/sp500-period-comparison/ | 2 | 16 |  |
 | /calculators/income-tax/pro-rata-salary/ | 2 | 14 |  |
 | /calculators/mortgage/mortgage-overpayment/ | 2 | 12 |  |
 | /calculators/energy/heat-loss-calculator/ | 2 | 11 |  |
@@ -30,6 +29,7 @@ _39 tools engaged · 128 people · 600 calculations · 23 with no engagement_
 | /calculators/unit-converters/volume/ | 2 | 4 |  |
 | /calculators/unit-converters/force/ | 2 | 3 |  |
 | /calculators/savings/isa-calculator/ | 2 | 2 |  |
+| /calculators/investments/sp500-period-comparison/ | 1 | 13 |  |
 | /calculators/debt/balance-transfer-calculator/ | 1 | 12 |  |
 | /calculators/income-tax/maternity-sick-pay/ | 1 | 11 |  |
 | /calculators/income-tax/two-jobs-tax/ | 1 | 11 |  |
