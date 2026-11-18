@@ -1,17 +1,17 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_26 tools engaged · 160 people · 702 calculations · 39 with no engagement_
+_26 tools engaged · 164 people · 708 calculations · 39 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/pensions/retirement-planner/ | 66 | 97 |  |
+| /calculators/pensions/retirement-planner/ | 68 | 98 |  |
 | /calculators/investments/drawdown-simulator/ | 35 | 70 |  |
-| /calculators/investments/sp500-calculator/ | 11 | 28 |  |
 | /calculators/investments/fire-calculator/ | 10 | 197 |  |
+| /calculators/investments/sp500-calculator/ | 10 | 26 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 8 |  |
 | /calculators/maths/million-to-billion-converter/ | 4 | 22 |  |
-| /calculators/income-tax/take-home-pay/ | 4 | 5 |  |
 | /calculators/investments/rolling-returns-simulator/ | 3 | 3 |  |
-| /calculators/unit-converters/speed/ | 2 | 28 |  |
+| /calculators/savings/till-calculator/ | 2 | 128 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
 | /calculators/savings/money-counter/ | 2 | 14 |  |
 | /calculators/income-tax/salary-sacrifice/ | 2 | 13 |  |
@@ -19,7 +19,7 @@ _26 tools engaged · 160 people · 702 calculations · 39 with no engagement_
 | /calculators/savings/compound-interest/ | 2 | 5 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 2 | 2 |  |
 | /calculators/savings/isa-calculator/ | 2 | 2 |  |
-| /calculators/savings/till-calculator/ | 1 | 98 |  |
+| /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/savings/budget-planner/ | 1 | 68 |  |
 | /calculators/maths/percentage-calculator/ | 1 | 10 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 4 |  |

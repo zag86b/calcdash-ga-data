@@ -1,24 +1,24 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_43 tools engaged · 254 people · 1110 calculations · 22 with no engagement_
+_43 tools engaged · 260 people · 1145 calculations · 22 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/pensions/retirement-planner/ | 69 | 107 |  |
+| /calculators/pensions/retirement-planner/ | 71 | 108 |  |
 | /calculators/investments/drawdown-simulator/ | 38 | 89 |  |
 | /calculators/investments/sp500-calculator/ | 22 | 66 |  |
 | /calculators/unit-converters/weight/ | 15 | 74 |  |
 | /calculators/investments/fire-calculator/ | 12 | 207 |  |
-| /calculators/unit-converters/speed/ | 8 | 45 |  |
-| /calculators/income-tax/take-home-pay/ | 8 | 22 |  |
+| /calculators/income-tax/take-home-pay/ | 10 | 25 |  |
+| /calculators/unit-converters/speed/ | 9 | 46 |  |
 | /calculators/investments/rolling-returns-simulator/ | 8 | 13 |  |
 | /calculators/maths/million-to-billion-converter/ | 7 | 38 |  |
 | /calculators/savings/money-counter/ | 6 | 15 |  |
 | /calculators/unit-converters/acceleration/ | 5 | 27 |  |
 | /calculators/savings/compound-interest/ | 5 | 10 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 5 | 6 |  |
+| /calculators/savings/till-calculator/ | 4 | 136 |  |
 | /calculators/mortgage/invest-or-overpay/ | 4 | 34 |  |
-| /calculators/savings/till-calculator/ | 3 | 106 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 30 |  |
 | /calculators/unit-converters/length/ | 3 | 6 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 22 |  |
