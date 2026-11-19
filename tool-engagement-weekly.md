@@ -1,27 +1,26 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_26 tools engaged · 164 people · 708 calculations · 39 with no engagement_
+_26 tools engaged · 161 people · 694 calculations · 39 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
 | /calculators/pensions/retirement-planner/ | 68 | 98 |  |
 | /calculators/investments/drawdown-simulator/ | 35 | 70 |  |
 | /calculators/investments/fire-calculator/ | 10 | 197 |  |
-| /calculators/investments/sp500-calculator/ | 10 | 26 |  |
-| /calculators/income-tax/take-home-pay/ | 6 | 8 |  |
+| /calculators/investments/sp500-calculator/ | 9 | 25 |  |
+| /calculators/income-tax/take-home-pay/ | 6 | 7 |  |
 | /calculators/maths/million-to-billion-converter/ | 4 | 22 |  |
 | /calculators/investments/rolling-returns-simulator/ | 3 | 3 |  |
 | /calculators/savings/till-calculator/ | 2 | 128 |  |
 | /calculators/mortgage/invest-or-overpay/ | 2 | 16 |  |
-| /calculators/savings/money-counter/ | 2 | 14 |  |
 | /calculators/income-tax/salary-sacrifice/ | 2 | 13 |  |
-| /calculators/unit-converters/weight/ | 2 | 8 |  |
 | /calculators/savings/compound-interest/ | 2 | 5 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 2 | 2 |  |
 | /calculators/savings/isa-calculator/ | 2 | 2 |  |
 | /calculators/unit-converters/speed/ | 2 | 2 |  |
 | /calculators/savings/budget-planner/ | 1 | 68 |  |
 | /calculators/maths/percentage-calculator/ | 1 | 10 |  |
+| /calculators/savings/money-counter/ | 1 | 9 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 4 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 3 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 3 |  |
@@ -29,6 +28,7 @@ _26 tools engaged · 164 people · 708 calculations · 39 with no engagement_
 | /calculators/income-tax/armed-forces-take-home-pay/ | 1 | 1 |  |
 | /calculators/pensions/pension-deferral/ | 1 | 1 |  |
 | /calculators/unit-converters/torque/ | 1 | 1 |  |
+| /calculators/unit-converters/weight/ | 1 | 1 |  |
 | /calculators/investments/solar-panels-vs-investing/ | 1 | 0 |  |
 | /calculators/debt/balance-transfer-calculator/ | 0 | 0 | no engagement — investigate |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |
