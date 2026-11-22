@@ -1,24 +1,24 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_42 tools engaged · 253 people · 1090 calculations · 23 with no engagement_
+_43 tools engaged · 258 people · 1095 calculations · 23 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
-| /calculators/pensions/retirement-planner/ | 74 | 111 |  |
+| /calculators/pensions/retirement-planner/ | 77 | 113 |  |
 | /calculators/investments/drawdown-simulator/ | 36 | 84 |  |
-| /calculators/investments/sp500-calculator/ | 23 | 66 |  |
-| /calculators/unit-converters/weight/ | 12 | 56 |  |
+| /calculators/investments/sp500-calculator/ | 24 | 67 |  |
+| /calculators/unit-converters/weight/ | 11 | 48 |  |
 | /calculators/investments/fire-calculator/ | 10 | 197 |  |
-| /calculators/unit-converters/speed/ | 9 | 46 |  |
 | /calculators/income-tax/take-home-pay/ | 9 | 19 |  |
+| /calculators/unit-converters/speed/ | 8 | 45 |  |
 | /calculators/maths/million-to-billion-converter/ | 8 | 40 |  |
 | /calculators/investments/rolling-returns-simulator/ | 8 | 13 |  |
-| /calculators/savings/money-counter/ | 6 | 15 |  |
+| /calculators/savings/money-counter/ | 7 | 15 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 5 | 6 |  |
 | /calculators/savings/till-calculator/ | 4 | 136 |  |
+| /calculators/debt/balance-transfer-fee-calculator/ | 4 | 39 |  |
 | /calculators/mortgage/invest-or-overpay/ | 4 | 34 |  |
 | /calculators/savings/compound-interest/ | 4 | 10 |  |
-| /calculators/debt/balance-transfer-fee-calculator/ | 3 | 30 |  |
 | /calculators/unit-converters/acceleration/ | 3 | 20 |  |
 | /calculators/unit-converters/length/ | 3 | 6 |  |
 | /calculators/unit-converters/volume/ | 3 | 6 |  |
@@ -38,6 +38,7 @@ _42 tools engaged · 253 people · 1090 calculations · 23 with no engagement_
 | /calculators/investments/sp500-period-comparison/ | 1 | 4 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
+| /calculators/unit-converters/pressure/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /calculators/income-tax/armed-forces-take-home-pay/ | 1 | 1 |  |
 | /calculators/income-tax/nhs-take-home-pay/london-weighting/ | 1 | 1 |  |
