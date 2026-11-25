@@ -1,6 +1,6 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_42 tools engaged · 251 people · 1086 calculations · 24 with no engagement_
+_42 tools engaged · 251 people · 1083 calculations · 24 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
@@ -8,10 +8,10 @@ _42 tools engaged · 251 people · 1086 calculations · 24 with no engagement_
 | /calculators/investments/drawdown-simulator/ | 36 | 84 |  |
 | /calculators/investments/sp500-calculator/ | 24 | 72 |  |
 | /calculators/investments/fire-calculator/ | 10 | 221 |  |
-| /calculators/unit-converters/weight/ | 10 | 40 |  |
-| /calculators/income-tax/take-home-pay/ | 9 | 19 |  |
+| /calculators/unit-converters/weight/ | 10 | 35 |  |
+| /calculators/maths/million-to-billion-converter/ | 9 | 45 |  |
+| /calculators/income-tax/take-home-pay/ | 9 | 20 |  |
 | /calculators/investments/rolling-returns-simulator/ | 9 | 14 |  |
-| /calculators/maths/million-to-billion-converter/ | 8 | 42 |  |
 | /calculators/unit-converters/speed/ | 7 | 43 |  |
 | /calculators/savings/money-counter/ | 7 | 15 |  |
 | /calculators/savings/how-long-will-my-money-last/ | 4 | 5 |  |
@@ -20,13 +20,13 @@ _42 tools engaged · 251 people · 1086 calculations · 24 with no engagement_
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 21 |  |
 | /calculators/unit-converters/acceleration/ | 3 | 20 |  |
 | /calculators/savings/compound-interest/ | 3 | 9 |  |
-| /calculators/unit-converters/length/ | 3 | 6 |  |
 | /calculators/unit-converters/volume/ | 3 | 6 |  |
 | /calculators/savings/till-calculator/ | 2 | 128 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 22 |  |
 | /calculators/energy/heat-loss-calculator/ | 2 | 11 |  |
-| /calculators/unit-converters/force/ | 2 | 3 |  |
+| /calculators/unit-converters/length/ | 2 | 4 |  |
 | /calculators/savings/isa-calculator/ | 2 | 2 |  |
+| /calculators/debt/debt-snowball/ | 2 | 1 |  |
 | /calculators/savings/budget-planner/ | 1 | 68 |  |
 | /calculators/debt/balance-transfer-calculator/ | 1 | 12 |  |
 | /calculators/maths/percentage-calculator/ | 1 | 10 |  |
@@ -37,13 +37,13 @@ _42 tools engaged · 251 people · 1086 calculations · 24 with no engagement_
 | /calculators/investments/sp500-period-comparison/ | 1 | 4 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
+| /calculators/unit-converters/force/ | 1 | 2 |  |
 | /calculators/unit-converters/pressure/ | 1 | 2 |  |
 | /fuel-prices-lake-district/ | 1 | 2 |  |
 | /calculators/income-tax/armed-forces-take-home-pay/ | 1 | 1 |  |
 | /calculators/income-tax/nhs-take-home-pay/london-weighting/ | 1 | 1 |  |
 | /calculators/income-tax/resident-doctor-take-home-pay/ | 1 | 1 |  |
 | /calculators/unit-converters/torque/ | 1 | 1 |  |
-| /calculators/debt/debt-snowball/ | 1 | 0 |  |
 | /calculators/investments/solar-panels-vs-investing/ | 1 | 0 |  |
 | /calculators/mortgage/price-per-square-foot/ | 1 | 0 |  |
 | /calculators/debt/debt-avalanche/ | 0 | 0 | no engagement — investigate |

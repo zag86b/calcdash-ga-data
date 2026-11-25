@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-11-24T15:22:25.679Z",
-  "fetchedAt": "2026-11-24T15:22:22.981Z",
+  "checkedAt": "2026-11-25T15:03:56.107Z",
+  "fetchedAt": "2026-11-25T15:03:52.675Z",
   "total": 55,
-  "failed": [
-    {
-      "id": "uk_house_price",
-      "name": "Average house price",
-      "source": "HM Land Registry",
-      "error": "UKHPI CSV columns changed: \"\\\"Name\\\",\\\"URI\\\",\\\"Region GSS code\\\",\\\"Period\\\",\\\"Sales volume\\\",\\\"Reporting period\\\",\\\"Pris cyfartalog Pob math o eiddo\\\",\\\"Pris cyfartalog Tai ar wahân\\\",\\\"Pris cyfartalo"
-    }
-  ]
+  "failed": []
 }
