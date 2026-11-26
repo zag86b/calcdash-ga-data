@@ -1,6 +1,6 @@
 # GA4 tag health
 
-Checked 2026-11-25T15:03:57.187Z on https://www.calculatordashboard.com. All checks passed.
+Checked 2026-11-26T14:33:30.053Z on https://www.calculatordashboard.com. All checks passed.
 
 | Page | Consent default first | gtag.js | config | Banner |
 | --- | --- | --- | --- | --- |
@@ -10,4 +10,4 @@ Checked 2026-11-25T15:03:57.187Z on https://www.calculatordashboard.com. All che
 | /uk-economy-dashboard/ | ok | ok | ok | ok |
 
 gtag.js serves for G-BDLEL1YGDY (533 KB).
-Sessions, last 3 full days: 11/22 13, 11/23 8, 11/24 7.
+Sessions, last 3 full days: 11/23 8, 11/24 7, 11/25 6.

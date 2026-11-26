@@ -1,6 +1,6 @@
 **Window:** 30daysAgo → today  ·  baseline 365d
 
-_42 tools engaged · 251 people · 1083 calculations · 24 with no engagement_
+_43 tools engaged · 248 people · 1076 calculations · 24 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
@@ -8,19 +8,19 @@ _42 tools engaged · 251 people · 1083 calculations · 24 with no engagement_
 | /calculators/investments/drawdown-simulator/ | 36 | 84 |  |
 | /calculators/investments/sp500-calculator/ | 24 | 72 |  |
 | /calculators/investments/fire-calculator/ | 10 | 221 |  |
-| /calculators/unit-converters/weight/ | 10 | 35 |  |
+| /calculators/income-tax/take-home-pay/ | 10 | 19 |  |
 | /calculators/maths/million-to-billion-converter/ | 9 | 45 |  |
-| /calculators/income-tax/take-home-pay/ | 9 | 20 |  |
-| /calculators/investments/rolling-returns-simulator/ | 9 | 14 |  |
-| /calculators/unit-converters/speed/ | 7 | 43 |  |
-| /calculators/savings/money-counter/ | 7 | 15 |  |
-| /calculators/savings/how-long-will-my-money-last/ | 4 | 5 |  |
+| /calculators/unit-converters/weight/ | 9 | 34 |  |
+| /calculators/investments/rolling-returns-simulator/ | 8 | 13 |  |
+| /calculators/unit-converters/speed/ | 6 | 39 |  |
+| /calculators/savings/money-counter/ | 6 | 14 |  |
 | /calculators/mortgage/invest-or-overpay/ | 3 | 28 |  |
 | /calculators/income-tax/salary-sacrifice/ | 3 | 24 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 3 | 21 |  |
 | /calculators/unit-converters/acceleration/ | 3 | 20 |  |
 | /calculators/savings/compound-interest/ | 3 | 9 |  |
 | /calculators/unit-converters/volume/ | 3 | 6 |  |
+| /calculators/savings/how-long-will-my-money-last/ | 3 | 3 |  |
 | /calculators/savings/till-calculator/ | 2 | 128 |  |
 | /calculators/pensions/pension-deferral/ | 2 | 22 |  |
 | /calculators/energy/heat-loss-calculator/ | 2 | 11 |  |
@@ -35,6 +35,7 @@ _42 tools engaged · 251 people · 1083 calculations · 24 with no engagement_
 | /calculators/income-tax/supply-teacher-day-rate/ | 1 | 6 |  |
 | /calculators/mortgage/invest-or-overpay-us/ | 1 | 5 |  |
 | /calculators/investments/sp500-period-comparison/ | 1 | 4 |  |
+| /calculators/investments/stock-average/ | 1 | 3 |  |
 | /calculators/outdoors/walking-time-calculator/ | 1 | 3 |  |
 | /calculators/unit-converters/stress/ | 1 | 3 |  |
 | /calculators/unit-converters/force/ | 1 | 2 |  |

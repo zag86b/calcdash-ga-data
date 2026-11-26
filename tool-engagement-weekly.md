@@ -1,6 +1,6 @@
 **Window:** 7daysAgo → today  ·  baseline 365d
 
-_13 tools engaged · 28 people · 87 calculations · 53 with no engagement_
+_14 tools engaged · 30 people · 92 calculations · 53 with no engagement_
 
 | Tool (page) | People | Calculations | Note |
 | --- | ---: | ---: | --- |
@@ -8,13 +8,14 @@ _13 tools engaged · 28 people · 87 calculations · 53 with no engagement_
 | /calculators/investments/sp500-calculator/ | 4 | 12 |  |
 | /calculators/unit-converters/weight/ | 4 | 9 |  |
 | /calculators/maths/million-to-billion-converter/ | 3 | 7 |  |
+| /calculators/income-tax/take-home-pay/ | 2 | 3 |  |
 | /calculators/debt/debt-snowball/ | 2 | 1 |  |
 | /calculators/investments/fire-calculator/ | 1 | 24 |  |
 | /calculators/income-tax/salary-sacrifice/ | 1 | 11 |  |
 | /calculators/debt/balance-transfer-fee-calculator/ | 1 | 9 |  |
+| /calculators/investments/stock-average/ | 1 | 3 |  |
 | /calculators/unit-converters/pressure/ | 1 | 2 |  |
 | /calculators/unit-converters/volume/ | 1 | 2 |  |
-| /calculators/income-tax/take-home-pay/ | 1 | 1 |  |
 | /calculators/investments/rolling-returns-simulator/ | 1 | 1 |  |
 | /calculators/savings/money-counter/ | 1 | 0 |  |
 | /calculators/debt/balance-transfer-calculator/ | 0 | 0 | no engagement — investigate |
