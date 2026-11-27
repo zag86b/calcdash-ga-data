@@ -1,6 +1,6 @@
 # Economy dashboard source health
 
-Checked 2026-11-26T14:33:29.275Z · feed fetched 2026-11-26T14:33:26.802Z · 55/55 indicators OK.
+Checked 2026-11-27T14:28:05.711Z · feed fetched 2026-11-27T14:28:03.474Z · 55/55 indicators OK.
 
 All sources OK.
 
